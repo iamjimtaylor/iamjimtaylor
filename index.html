@@ -1,57 +1,23 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-<head> 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title></title>
-    <meta name="description" content="" />
+---
+layout: default
+---
 
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic,300italic,300" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-</head>
+<div class="home">
 
-  <body>
+  <h1 class="page-heading">Posts</h1>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/PhCreative/BasepackageHTML">View on GitHub</a>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-          <h1 id="project_title">BasepackageHTML</h1>
-          <h2 id="project_tagline">The front end template markup for BasePackage</h2>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/PhCreative/BasepackageHTML/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/PhCreative/BasepackageHTML/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>
-<a id="basepackagehtml" class="anchor" href="#basepackagehtml" aria-hidden="true"><span class="octicon octicon-link"></span></a>BasepackageHTML</h1>
-
-<p>The front end template markup for BasePackage v7 based on Umbraco 7 - <a href="http://basepackage.phusemarketing.co.uk">http://basepackage.phusemarketing.co.uk</a></p>
-
-<h1>
-<a id="functionality" class="anchor" href="#functionality" aria-hidden="true"><span class="octicon octicon-link"></span></a>Functionality</h1>
-
-<p>Job Board - <a href="https://github.com/PhCreative/BasepackageHTML/wiki/Job-Board-Functionality">https://github.com/PhCreative/BasepackageHTML/wiki/Job-Board-Functionality</a></p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">BasepackageHTML maintained by <a href="https://github.com/PhCreative">PhCreative</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
-</html>
+</div>
