@@ -1,6 +1,8 @@
 
 # Site settings
 title: Jim Taylor | Web Developer
+name: Jim Taylor
+handle: iamjimtaylor
 email: me@iamjimtaylor.com
 description: Jim Taylor - Head of Web Development at Ph. Creative
 baseurl: "" 
