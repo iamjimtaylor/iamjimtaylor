@@ -1,0 +1,269 @@
+/* Table of Contents
+==================================================
+    
+    #Bootstrap Overides
+    #Header General
+    #Header Search
+    #Justified Nav
+    #Right Aligned Nav
+   
+   ==================================================
+*/
+
+/* ==========================================================================
+#Bootstrap Overides
+========================================================================== */
+
+.navbar-toggle {
+	margin: 0;
+	padding: 0;
+}
+.navbar-nav {
+	float:none;
+}
+
+/* ==========================================================================
+#Header General
+========================================================================== */
+
+.header {
+	padding-top: 15px;
+	margin-bottom: 20px;
+
+	.navbar-toggle,
+	.search-toggle {
+		float:right;
+		padding:0;
+		margin-top: 10px;
+		&:focus, &:active, &:hover {
+			outline: none;
+			background: none;
+			box-shadow: none;
+		}
+	}
+
+	.search-toggle {
+		background: none;
+		border:none;
+		color: black;
+		width: 20px;
+		margin-left: 10px;
+		i {
+			font-size: 18px;
+		}
+
+		.fa-search {
+			display:none;
+		}
+		.fa-close {
+			display: block;
+		}
+
+		&.collapsed {
+			.fa-search {
+				display:block;
+			}
+			.fa-close {
+				display: none;
+			}
+		}
+	}
+
+	//http://callmenick.com/post/animating-css-only-hamburger-menu-icons
+	.navbar-icon {
+	  display: block;
+	  position: relative;
+	  overflow: hidden;
+	  width: 30px;
+	  height: 30px;
+	  top: -4px;
+	  font-size: 0; text-indent: -9999px;	 
+	  transition: background 0.3s;
+		span {
+		  display: block;
+		  position: absolute;
+		  top: 13px;
+		  left: 5px;
+		  right: 5px;
+		  height: 3px;
+		  background: black;
+		  transition: background 0s 0.3s;
+			&::before,
+			&::after {
+			  position: absolute;
+			  display: block;
+			  left: 0;
+			  width: 100%;
+			  height: 3px; 
+			  background-color: black;
+			  content: "";
+			  transition-duration: 0.3s, 0.3s;
+  			  transition-delay: 0.3s, 0s;
+			}
+			&::before {
+			  top: -6px;
+			  transition-property: top, transform;
+			}
+
+			&::after {
+			  bottom: -6px;
+			   transition-property: bottom, transform;
+			}
+		}		
+	}
+
+	.navbar-toggle {
+		&:not(.collapsed) {
+			span {
+				background: none;
+				&::before,
+				&::after {
+				  transition-delay: 0s, 0.3s;
+				}
+				&::before {
+				  top: 0;
+				  transform: rotate(45deg);
+				}
+				&::after {
+				  bottom: 0;
+				  transform: rotate(-45deg);
+				}
+			}
+		}
+	}
+}
+
+.logo {
+	display: inline-block;
+	width:50%;
+	max-width: 120px;
+	@media (min-width: $screen-sm) {
+		width:auto;			
+		max-width: none;
+	}	
+}
+
+/* ==========================================================================
+#Header Search
+========================================================================== */
+.navbar-search {
+	padding:0;
+	display: inline-block;
+	
+	@media (min-width: $screen-sm) {
+		max-width: 300px;
+	}
+
+	.navbar-form {
+		margin:0;
+		@media (min-width: $screen-sm) {
+			padding:0;
+			width: 100%;			
+		}
+	}
+	.input-group {
+		@media (min-width: $screen-sm) {
+			width: 100%;
+		}
+	}
+}
+
+#site-search {
+	padding-bottom: 30px;
+
+	@media (min-width: $screen-sm) {
+		padding-bottom: 0px;
+	}
+}
+
+/* ==========================================================================
+#Justified Nav
+========================================================================== */
+.navbar-nav {
+	li {
+		a {
+			color: $text-color;			
+		}
+		//active styles
+		&.active, &:hover {
+			> a {
+				color: $brand-primary;
+			}
+		}
+	}
+	> li {
+		@media (min-width: $grid-float-breakpoint) {
+			display: inline-block;
+			float:none;	
+			&:hover {
+				> .dropdown-menu {					
+						display: block;
+				}
+			}
+		}
+		
+		> a {
+			display: block;			
+			position: relative;
+
+			&:hover, &:active, &:focus {
+				background:none;
+			}
+		} 	
+	}
+	.dropdown-menu {						
+		box-shadow: none;
+		> .active > a {
+			background: none;
+			color: $brand-primary;
+		}
+		@media (min-width: $grid-float-breakpoint) {
+			top: 31px;			
+			min-width: 230px;
+		}
+	}
+	.open > a, .open > a:focus, .open > a:hover {
+		background: none;
+	}
+}
+
+.navbar-justified {
+	&.navbar-menu {
+		z-index: 100;
+		position: relative;	
+	}	
+
+	@media (min-width: $grid-float-breakpoint) {
+		.navbar-nav {
+			text-align: justify;
+			width:100%;
+			height: 34px;
+
+			&:after {
+				content: '';
+				display: inline-block;
+				width: 100%;
+			}	
+
+			> li > a {
+				padding:5px 0;
+			}
+		} //.navbar-nav		
+	}
+}
+
+/* ==========================================================================
+#Right Aligned Nav
+========================================================================== */
+
+.navbar-right-aligned {
+	@media (min-width: $grid-float-breakpoint) {
+		text-align: right;
+	}
+
+	.navbar-nav {
+		@media (min-width: $grid-float-breakpoint) {
+			display: inline-block;
+		}
+	}
+}

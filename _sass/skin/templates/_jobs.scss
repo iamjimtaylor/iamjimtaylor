@@ -1,0 +1,102 @@
+/* Table of Contents
+==================================================
+    
+    #application form
+    #sidebar
+    #job-item
+   
+   ==================================================
+*/
+
+
+/* ==========================================================================
+#application form
+========================================================================== */
+#apply-now {
+	margin-top: 18px;
+}
+
+
+.dropbox-dropin-btn {
+    width: 100%;
+    height: 36px !important;
+    display: block;
+    background: #4b73e3 !important;
+    border: 1px solid #fff !important;
+    color: #fff !important;
+    text-align: left !important;
+    font-size: 13px !important;
+    box-sizing: inherit !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    line-height: 34px !important;
+    padding-left: 15px !important;
+    position: relative;
+    border-radius: 6px !important;
+    filter: none !important;
+
+    
+    .dropin-btn-status {
+        background: transparent url('/images/dropbox-img.png') no-repeat !important;
+        position: absolute;
+        right: 10px;
+        top: 11px;
+        width: 14px;
+        height: 14px;
+    }
+}
+
+#drive_choose_file {
+    background: #3b3939 !important;
+    
+    img {
+        position: absolute;
+        right: 5px;
+        top: 8px;
+    }
+}
+
+#dropbox_cv {
+    position: relative;
+    margin-bottom: 24px;
+}
+
+
+/* ==========================================================================
+#sidebar
+========================================================================== */
+.js-sticky {
+	@media (max-width: $screen-sm - 1) {
+		//disable sticky
+		top: 0 !important;
+	}
+}
+
+.sidebar {
+	.job-table {
+		td {
+			border: none !important;
+			padding: 4px 0 !important;
+		}
+	}
+    form, .list-share-icons {
+        margin-bottom: 15px;
+    }
+}
+
+#js-save-job-btn {
+	&:hover {
+		background-color: #C4C4C4;
+		color: #000;
+	}
+}
+
+/* ==========================================================================
+#job-item
+========================================================================== */
+
+.job-item {
+	h3 {
+		margin-top: 0;
+	}
+}

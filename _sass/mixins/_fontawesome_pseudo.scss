@@ -1,0 +1,29 @@
+// Alerts
+
+@mixin fa-pseudo-before($content: "\f105", $color: inherit, $font-size: $font-size-base, $top-value: 0, $left-value: 0) {
+  content: $content;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  line-height: 1;
+  color: $color;
+  font-size: $font-size;
+  position: absolute;
+  top: $top-value;
+  left: $left-value;
+}
+
+@mixin fa-pseudo-after($content: "\f105", $color: inherit, $font-size: $font-size-base, $top-value: 0, $right-value: 0) {
+  content: $content;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  line-height: 1;
+  color: $color;
+  font-size: $font-size;
+  position: absolute;
+  top: $top-value;
+  right: $right-value;
+}

@@ -1,0 +1,60 @@
+/* Remember some base styles can be set in _vars.scss to override default Bootstrap styling */
+
+/* Table of Contents
+==================================================
+    
+    #CMS Content Images
+    #Background Cover Image
+   
+   ==================================================
+*/
+
+/* ==========================================================================
+#CMS Content Images
+========================================================================== */
+
+.cms-content {
+	img {
+		max-width: 100%;
+		height: auto !important;
+		@include spread-value(margin-bottom, 15px, 30px); 
+
+		&:last-child {margin-bottom:0;}
+	}
+    
+	img[align="left"],
+	img[style*="float: left"],
+	img[style*="float:left"],
+	img[align="right"],
+	img[style*="float: right"],
+	img[style*="float:right"]{
+	    display: block;
+	    margin: 15px auto;
+	    float: none !important;
+	}
+	@media (min-width: $screen-md) {
+		img[align="left"],
+		img[style*="float: left"],
+		img[style*="float:left"]{
+		    margin: 0 25px 20px 0px;
+		    float: left !important;
+		}
+		img[align="right"],
+		img[style*="float: right"],
+		img[style*="float:right"]{
+		    margin: 0 0px 20px 25px;
+		    float: right !important;
+		}
+	}	
+}
+
+/* ==========================================================================
+#Background Cover Image
+========================================================================== */
+
+.background-cover {
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+	padding: 25px 0;
+}

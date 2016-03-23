@@ -1,0 +1,169 @@
+//
+// Sticky Header
+// --------------------------------------------------
+
+.sticky-header {
+	background-color: grey; 
+	padding: 10px;
+	
+	 h2 {
+		margin-bottom: 0px;
+		color: black; 
+		font-weight: bold;
+		padding: 20px 0px;
+	} 
+	input {
+		width:80%; 
+		padding:5px;
+	}
+	.btn {
+		width:20%; 
+		padding:5px;
+	}
+	i {
+		font-size: 30px; 
+		color: black;  
+		padding: 10px 0px;
+	}
+}
+
+@media (max-width: 767px) {
+	.sticky-header h2 {
+		text-align: center;
+	}
+}
+
+@media (min-width: 767px) {
+	.sticky-header input {
+		width:70%; 
+	}
+	.sticky-header .btn {
+		width:20%; 
+	}
+}
+
+@media (max-width: 420px) {
+	.sticky-header input {
+		width:100%; 
+	}
+	.sticky-header .btn {
+		margin-top: 20px;
+		width:100%; 
+	}
+}
+
+//
+// Sticky Sidebar
+// --------------------------------------------------
+
+.btn-sticky-sidebar-left {
+	padding: 25px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	position: fixed;
+	top: 300px;
+	-ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+	border-radius: 10px;
+	margin-left: auto;
+	left: -39px;
+}
+
+.btn-sticky-sidebar-right {
+	padding: 25px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	position: fixed;
+	top: 300px;
+	-ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+	border-radius: 10px;
+	margin-left: auto;
+	right: -39px;
+}
+
+//
+// Sticky Footer
+// --------------------------------------------------
+
+.sticky-footer-left {
+	background-color: grey; 
+	padding: 10px;
+	left:-39px;
+}
+
+@media (max-width: 767px) {
+	.sticky-footer-left h2 {
+		text-align: center;
+	}
+}
+
+.fixed-left i {
+	color: black;
+	font-size: 20px;
+	float: right;
+	right: -42px;
+	top: -46px;
+	position: relative;
+	background-color: red;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.fixed-left {
+	left: -175px;
+}
+
+.sticky-footer-right {
+	background-color: grey; 
+	padding: 10px;
+	right:-39px;
+}
+
+@media (max-width: 420px) {
+	.sticky-footer-right input {
+		width:100%; 
+	}
+	.sticky-footer-right .btn {
+		margin-top: 20px;
+		width:100%; 
+	}
+}
+
+.fixed-right {
+	right: -175px;
+}
+
+.sticky-footer {
+	padding: 30px !important;
+
+	h2 {
+		margin-bottom: 0px;
+		color: black; 
+		font-weight: bold;
+		padding: 20px 0px;
+		text-align:center
+	} 
+	input {
+		width: 100%; 
+		padding:5px;
+		margin: 10px 0 5px;
+	}
+	.btn {
+		width:100%; 
+		padding:5px;
+		margin: 5px 0 10px;
+	}
+}
+
+.sticky-footer-form {
+	width: 100% !important;
+}
+
+.sticky-footer-left {
+	display: none;
+}

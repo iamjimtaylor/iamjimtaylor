@@ -1,0 +1,65 @@
+/* Table of Contents
+==================================================
+
+    #error-handling
+    #inputs
+    #horizontal-form
+    #select2
+   
+   ==================================================
+*/
+
+/* ==========================================================================
+#error-handling
+========================================================================== */
+// Style up input errors
+// This is based on jquery-validation
+.input-validation-errors {
+  border-color: $state-danger-bg;
+}
+
+.field-validation-error, .required {
+  color: $state-danger-text;
+}
+
+.form-control {
+  &.valid {
+    border-color: $state-success-bg;
+  }
+}
+
+/* ==========================================================================
+#inputs
+========================================================================== */
+textarea {
+	resize: vertical;
+}
+
+input[type="file"] {
+  max-width: 100%;
+  font-size: 14px;
+}
+
+/* ==========================================================================
+#horizontal-form -- adds margin to the top of the button to bring inline with input fields
+				 -- used for event filters and search results
+========================================================================== */
+.horizontal-form {
+	.btn {
+		@media (min-width: $screen-md) {
+			margin-top: 28px;
+		}
+	}
+}
+
+/* ==========================================================================
+#select2
+========================================================================== */
+// fix .input-group width issue
+.select2-search__field, .select2-container  {
+    width: 100% !important;
+}
+
+.select2.select2-container {
+  display: block;
+}

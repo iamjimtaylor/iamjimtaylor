@@ -1,0 +1,30 @@
+/* Table of Contents
+==================================================
+    
+    #Global Widget Styles
+   
+   ==================================================
+*/
+
+/* ==========================================================================
+#Global Widget Styles
+========================================================================== */
+
+.widget {
+	@include spread-value(margin-bottom, 25px, 35px);
+	h3 {
+		@extend .h4;
+	}
+	img {
+		margin-bottom: 10px;
+	}
+}
+
+
+.sidebar {
+	.widget {
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}	
+}
