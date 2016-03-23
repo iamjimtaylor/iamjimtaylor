@@ -2,19 +2,14 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 text-center">
-        <ul class="list-inline">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% if site.github_username %}
-          <li>
-          {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-          {% if site.twitter_username %}
-          <li>
-          {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %} 
-        </ul>            
+        <ul class='social list-unstyled'>
+          <li><a href="mailto:me@iamjimtaylor.com">Email</a></li>
+          <li><a href="https://twitter.com/iamjimtaylor">Twitter</a></li>
+          <!--<li><a href="#"><a href="#">RSS</a></li>-->          
+          <li><a href="https://www.facebook.com/iamjimtaylor">Facebook</a></li>
+          <li><a href="https://instagram.com/iamjimtaylor">Instagram</a></li>
+          <li><a href="https://github.com/iamjimtaylor">GitHub</a></li>
+        </ul>
       </div>
       <div class="col-xs-12 text-center">
         <p>&copy; {{ site.title }} 2016. All Rights Reserved</p>            

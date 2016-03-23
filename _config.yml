@@ -1,12 +1,10 @@
 
 # Site settings
-title: Jim Taylor
+title: Jim Taylor | Web Developer
 email: me@iamjimtaylor.com
-description: Head of Development at Ph. Creative
+description: Jim Taylor - Head of Web Development at Ph. Creative
 baseurl: "" 
-url: "http://iamjimtaylor.com" 
-twitter_username: iamjimtaylor
-github_username:  iamjimtaylor
+url: "http://iamjimtaylor.com"
 
 # Build settings
 markdown: kramdown
