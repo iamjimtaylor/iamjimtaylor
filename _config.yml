@@ -10,3 +10,5 @@ url: "http://iamjimtaylor.com"
 
 # Build settings
 markdown: kramdown
+sass:
+  style: compressed
