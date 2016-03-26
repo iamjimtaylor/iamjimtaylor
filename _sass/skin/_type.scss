@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1, .page-header {	
-	@include spread-value(font-size, $font-size-h1-small, $font-size-h1);
+	@include spread-value(font-size, $font-size-h1-small, $font-size-h1); color: #fff;
 }
 
 h2, .h2 {
