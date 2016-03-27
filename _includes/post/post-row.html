@@ -1,0 +1,13 @@
+<ul class="posts-row list-unstyled" itemscope itemType="http://schema.org/Blog">
+	<li itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+
+		<meta itemprop="name headline" content="'{{ post.title }}'">
+        <meta itemprop="dateModified" content="{{ post.date | date: "%-d/%b/%Y" }}">
+
+		<a class="posts-link {{ include.size }}" href="{{ post.url | prepend: site.baseurl }}" title="'{{ post.title }}'" itemprop="headline">{{ post.title }}</a>
+		
+    	<div class="post-meta"><small><time datetime="{{ post.date | date_to_xmlschema }}" class="posts-date">{{ post.date | date: "%-d %B %Y" }}</time></small></div>
+    	<p itemprop="description">{{ post.summary }}</p>
+    	<a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" rel="" title="Read Post">Read Post</a>
+    </li>
+  </ul>

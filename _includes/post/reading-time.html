@@ -1,0 +1,8 @@
+<small class="post-reading-time">
+{% if words < 360 %}
+	1 min
+{% else %}
+	{{ words | divided_by: 180 }} min
+{% endif %}
+	read
+</small>
