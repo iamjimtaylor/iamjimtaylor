@@ -47,7 +47,7 @@ I've set up and added Google Analytics, Webmaster Tools and launched a basic hom
 
 My aim to keep the page speed load as fast as possible. The only thing not possible with this solution is the ability to enable leverage browser caching.
 
-## New home, a new name.
+## New home, new name.
 
 While deciding on a domain for my site I made a milestone decision. To change my username/handle, 'jamesicon', for pretty much everything to tie in with my new domain name of choice 'iamjimtaylor'. 
 
@@ -57,6 +57,8 @@ That's me... Well it was. Back in 1998 I'd formed a band called Iconoclast. Arou
 I love to tell the story of when Rachel, my wife, asked at the time what I was doing. When I explained email and what it was for she said, and I quote "<i>it'll never take off!</i>". :)
 
 So armed with a PC, a love of design and a band I thought 'we need a website'. And that's where my passion for coding began. 
+
+Anyways... Within a few hours of registering a domain and updating the DNS my new site was live. 
 
 And there you have it. I'm coding again. 
 I've also written a blog post! Two birds one stone. If you're thinking about doing anything. Just start. 
