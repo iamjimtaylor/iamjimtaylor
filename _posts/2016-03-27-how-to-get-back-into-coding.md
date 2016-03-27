@@ -30,7 +30,7 @@ Don't get me wrong, I can read and write... I'm not expecting sympathy for being
 
 ## So back to coding... 
 
-I won't get into technical detail here of how. I'll save that for later posts broken down into more gradual detail. 
+I won't get into technical detail here of how. I'll save that for later posts broken down into more granular detail. 
 
 I wanted to launch a small site for myself as quickly as possible. I decided to start with a content first approach and focus on the aesthetics later on. I could of used Umbraco CMS to upload and manage my content as I've been working it for around 5 years now. But like I said, I wanted something to play with, something new...
 
