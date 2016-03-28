@@ -14,7 +14,7 @@ After creating a list of sites our team had produced since day one I realised I 
 
 ## So what have I been doing? 
 
-Consultancy, research, support, reporting. Adjusting processes and looking for efficiencies. Rolling out new tools such as Helpdesk Software and InvisionApp.  All to help the team become more productive. Gathering Requirements for projects, writing functional specifications and quality assurance. Looking for areas of growth and success for our clients.
+Consultancy, research, support, reporting. Adjusting processes and looking for efficiencies. Rolling out new tools such as Helpdesk Software and InvisionApp.  All to help the team become more productive. Gathering requirements for projects, writing functional specifications and quality assurance. Looking for areas of growth and success for our clients.
 
 ## Don't you miss it? 
 
@@ -32,7 +32,7 @@ Don't get me wrong, I can read and write... I'm not expecting sympathy for being
 
 I won't get into technical detail here of how. I'll save that for later posts broken down into more granular detail. 
 
-I wanted to launch a small site for myself as quickly as possible. I decided to start with a content first approach and focus on the aesthetics later on. I could of used Umbraco CMS to upload and manage my content as I've been working it for around 5 years now. But like I said, I wanted something to play with, something new...
+I wanted to launch a small site for myself as quickly as possible. I decided to start with a content first approach and focus on the aesthetics later on. I could of used Umbraco CMS to upload and manage my content as I've been working with it for around 5 years now. But like I said, I wanted something to play with, something new...
 
 That's why I decided to give <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> a go. 
 Jekyll? Jekyll is a static site generator. Taking raw text files in various formats and converting them into a static website. 
