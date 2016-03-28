@@ -2,7 +2,7 @@
 layout: post
 title:  "Running a Sunday League Football Team"
 date:   2016-03-28 18:40:00 +0000
-summary: ""
+summary: "I was a Sunday League Manager for over 6 years until I called it a day recently. This is my opinion based on my experiences."
 permalink: posts/running-a-sunday-league-football-team/
 ---
 

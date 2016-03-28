@@ -3,9 +3,11 @@ layout: default
 title: Blog | Jim Taylor
 ---
 <h1>Blog</h1>
-<p></p>
+
 <div class="posts">
-  {% for post in site.posts %}
-    {% include post/post-row.html %}
-  {% endfor %}
+	<ul class="posts-row list-unstyled" itemscope itemType="http://schema.org/Blog">
+		{% for post in site.posts %}
+		{% include post/post-row.html %}
+		{% endfor %}
+	</ul>
 </div>	
