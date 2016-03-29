@@ -6,7 +6,19 @@
 
 		<a class="posts-link {{ include.size }}" href="{{ post.url | prepend: site.baseurl }}" title="'{{ post.title }}'" itemprop="headline">{{ post.title }}</a>
 		
-    	<div class="post-meta"><small><time datetime="{{ post.date | date_to_xmlschema }}" class="posts-date">{{ post.date | date: "%-d %B %Y" }}</time></small></div>
+		<div class="post-meta"><small>
+			<time datetime="{{ post.date | date_to_xmlschema }}" class="posts-date">
+				{% assign d = post.date | date: "%-d"  %}
+				{% case d %}
+				{% when '1' or '21' or '31' %}{{ d }}st
+				{% when '2' or '22' %}{{ d }}nd
+				{% when '3' or '23' %}{{ d }}rd
+				{% else %}{{ d }}th
+				{% endcase %}
+				{{ post.date | date: "%B" }} 
+				{{ post.date | date: "%Y" }}
+			</time>
+		</small></div>
     	<p itemprop="description">{{ post.summary }}</p>
     	<a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" rel="" title="Read Post">Read Post</a>
     </li>

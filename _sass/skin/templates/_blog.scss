@@ -16,3 +16,18 @@
 		Margin-bottom: 20px;
 	}
 }
+
+.post {
+	figure {
+		img { 
+			max-width: 100%;
+			height: auto !important;
+			margin-bottom: 10px;
+		}
+		figcaption {
+			margin-bottom: 20px;
+			font-style: italic;
+			font-size: 80%;
+		}
+	}
+}

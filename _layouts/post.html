@@ -2,11 +2,44 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
-  <section class="post-content" itemprop="articleBody">
-    {{ content }}
-  </section>
+	<header class="post-header">
+		<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+		<p class="post-meta">
+			By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.name }}</span></span> 
+			on
+			<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+				{% assign d = page.date | date: "%-d"  %}
+				{% case d %}
+				{% when '1' or '21' or '31' %}{{ d }}st
+				{% when '2' or '22' %}{{ d }}nd
+				{% when '3' or '23' %}{{ d }}rd
+				{% else %}{{ d }}th
+				{% endcase %}
+				{{ page.date | date: "%B" }} 
+				{{ page.date | date: "%Y" }}
+			</time>
+		</p>
+	</header>
+
+	<meta itemprop="name headline" content="{{ page.title }}" />
+	<meta itemprop="author" content="{{ site.name }}" />
+	<meta itemprop="datePublished" content="{{ page.date | date: "%Y-%d-%m" }}" />
+	<meta itemprop="url mainEntityOfPage" content="{{ page.url | prepend: site.url }}" />
+	{% if page.image_url %}
+	<figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">		
+		<img alt="{{ page.image_alt }}" class="img-responsive" width="{{ page.image_width }}" height="{{ page.image_height }}" itemprop="contentUrl" src="{{ page.image_url | prepend: site.baseurl }}" />
+		<figcaption>{{ page.image_alt }}</figcaption>
+		<link href="{{ page.image_url | prepend: site.baseurl }}" itemprop="url" />
+		<meta content="{{ page.image_width }}" itemprop="width" />
+		<meta content="{{ page.image_height }}" itemprop="height" />	
+	</figure>
+	{% endif %}
+
+	<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+	    <meta itemprop="name" content="{{ site.title }}">
+	</div>
+
+	<section class="post-content" itemprop="articleBody">
+		{{ content }}
+	</section>
 </article>
