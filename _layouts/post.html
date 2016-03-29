@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-	<header class="post-header">
+<article class="post row" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="post-header col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 		<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 		<p class="post-meta">
 			By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.name }}</span></span> 
@@ -26,7 +26,7 @@ layout: default
 	<meta itemprop="datePublished" content="{{ page.date | date: "%Y-%d-%m" }}" />
 	<meta itemprop="url mainEntityOfPage" content="{{ page.url | prepend: site.url }}" />
 	{% if page.image_url %}
-	<figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">		
+	<figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">		
 		<img alt="{{ page.image_alt }}" class="img-responsive" width="{{ page.image_width }}" height="{{ page.image_height }}" itemprop="contentUrl" src="{{ page.image_url | prepend: site.baseurl }}" />
 		<figcaption>{{ page.image_alt }}</figcaption>
 		<link href="{{ page.image_url | prepend: site.baseurl }}" itemprop="url" />
@@ -39,7 +39,7 @@ layout: default
 	    <meta itemprop="name" content="{{ site.title }}">
 	</div>
 
-	<section class="post-content" itemprop="articleBody">
+	<section class="post-content col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2" itemprop="articleBody">
 		{{ content }}
 	</section>
 </article>
