@@ -29,7 +29,7 @@ Some managers leave it till Saturday afternoon to call you if you are the away t
 
 When Thursday night came around I'd text every player. I used a group app to text everyone the fixture details. Who we were playing, where when and remind them about subs. 
 
-I'd ask for a reply of either IN or OUT so I knew if we had a team and begin thinking about who would start. I used the Notes app on my phone to keep a log. I often had to chase one or two who'd forget to reply or where 'credit meffs'.
+I'd ask for a reply of either IN or OUT so I knew if we had a team and begin thinking about who would start. I used the Notes app on my phone to keep a log. I often had to chase one or two who'd forget to reply or were 'credit meffs'.
 
 ## Money, money, money... 
 Without it you don't have a club. Simple as that. Expenditure per season was around £2.5k. 
