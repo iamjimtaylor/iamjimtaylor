@@ -16,18 +16,18 @@ image_height: 717
 	<footer>Every player I've managed who has either looked after the team for a game for me or has gone on to manager their own team.</footer>
 </blockquote> 
 
-It is, but I loved it. And although there were more downs than ups, I've learnt a lot. 
+It is hard graft, but I loved it. And although there were more downs than ups, I've learnt a lot. 
 I was a Sunday League Manager for over 6 years until I called it a day recently. This is my opinion based on my experiences which I've taken into my professional career and vice versa.
 Others will have different ideas. So take it or leave it...
 
 ## The League
-I've managed under two different leagues. The major pain is the monthly league meeting with which lasts around 20-60 minutes. Your aim is to just collect the fixtures for the month. The league committees aim to put you asleep. With their repetitive reminder about ringing them with the final score after your game. And not to abuse referees. They do a good job to be fair though.
+I've managed under two different leagues. The major pain was the monthly league meeting which lasted around 20-60 minutes. My aim was to just collect the fixtures for the month. The league committees aim was to put me to sleep. With their repetitive reminder about ringing them with the final score after your game. And not to abuse referees. They do a good job to be fair though.
 
 Every Tuesday, if you are the home team you have to ring the referee with a courtesy call. Then ring the opposition to confirm the game and what colours you'll be playing in. 
 
 Some managers leave it till Saturday afternoon to call you if you are the away team. The league committee encourages you to ring the league of a Wednesday if your opposition haven't rang. So you could 'claim the points'. It's not something I ever did but I'd heard teams had claimed in the past. 
 
-When Thursday night came around I'd text every player. I used a group app to text everyone the fixture details. Who we were playing, where and when and remind them about subs. 
+When Thursday night came around I'd text every player. I used a group app to text everyone the fixture details. Who we were playing, where when and remind them about subs. 
 
 I'd ask for a reply of either IN or OUT so I knew if we had a team and begin thinking about who would start. I used the Notes app on my phone to keep a log. I often had to chase one or two who'd forget to reply or where 'credit meffs'.
 
@@ -39,7 +39,7 @@ I used <a href="http://www.teamstats.net/" target="_blank">TeamStats</a> to mana
 
 Some leagues actually charge a fee to join their league. No wonder grassroots football is dying. It's so expensive. My aim was to finish the season with a couple of hundred quid in the kitty. So bills could be paid for the next season before a ball was kicked.
 
-To start a season I collected £20 per player to sign on. I usually signed around 20 players. The money collected wasn't even enough to cover pitch fees. The council usually charged £600 a season. I think every player though I was ripping them off. I was running a tight ship that's all. Keeping us above water.
+To start a season I collected £20 per player to sign on. I usually signed around 20 players. The money collected wasn't even enough to cover pitch fees. The council charged us £600 a season. I think every player thought I was ripping them off. I was running a tight ship that's all. Keeping us above water.
 
 ## Players 
 Managing players is difficult. Finding them is even more so. Especially finding good ones. And when you do they usually come with baggage. 
@@ -49,14 +49,17 @@ I was lucky to play alongside someone I now regard as a good friend who knew eve
 One of the main reasons I did all this was for the banter with the lads. 
 
 ## Training
-All players ask for it. Especially after defeat. "We need to start training together!" So you organise training, everyone turns up the first week but by the time you get to the 3rd week you're down to 6 men and you end up cancelling it again. 
+All players ask for it. Especially after a defeat. "We need to start training together!" So you organise training, everyone turns up the first week but by the time you get to the 3rd week you're down to 6 men and you end up cancelling it again. 
 
-![Training](/images/preseason-training.jpg){: .img-responsive}
+<figure>		
+	<img alt="Training" class="img-responsive" width="960" height="720" src="/images/preseason-training.jpg" />
+	<figcaption>Training - good while it lasted</figcaption>	
+</figure>
 
 ## Match Day 
-I always asked the lads to turn up 45 minutes before KO. There was always one or two who'd ring to say they're running late and to "save me kit". 
+I always asked the lads to turn up 45 minutes before KO. There was always one or two who'd ring to say they're running late and to "save me a kit". 
 
-The worst is your phone ringing nonstop from around 8:30am. Players asking "what time we meeting, what times KO, will we have enough players, is it still on". Or "I've been out all night Jimmy so I won't be there". What I hated most was a player saying they're coming and not turning up. Then not even contacting you with an apology and turning up the next week expecting to start. 
+The worst is your phone ringing nonstop from around 8:30am onwards. Players asking "what time we meeting, what times KO, will we have enough players, is it still on?" Or "I've been out all night Jimmy so I won't be there". What I hated most was a player saying they're coming and not turning up. Then not even contacting you with an apology and turning up the next week expecting to start. 
 
 If the weather was against us then we'd have to wait for the referee to turn up to tell us if the match is going ahead or not after a pitch inspection. 
 
@@ -75,10 +78,15 @@ They'd wrap their soaking wet socks into a ball and leave their sock tape still 
 
 The team always wanted a new kit every season. You need a home and away kit to avoid kit clashes with the opposition. I would buy the good stuff so they wouldn't fall apart after a few games and washes. Buying 15 full kits with numbers printed on the shirts would cost around £400 a kit. When shirts and shorts went missing I'd be fuming. Then one of the lads would turn up the following week wearing the shorts with nothing to change into afterwards. 
 
+<figure>		
+	<img alt="Everyone wanted to be the captain" class="img-responsive" width="538" height="720" src="/images/captains-armband.jpg" />
+	<figcaption>Everyone wanted to be the captain</figcaption>	
+</figure>
+
 ## Nets
 Ask any Sunday league manager. Getting nets up and down is a nightmare. It would be the same every week. 
 
-I'd see players completely avoid the responsibility and then stand there booting the ball in the net. While the ones who've volunteered struggle to clip the net on because the balls are flying at them. 
+I'd see players completely avoid the responsibility and then stand there booting the ball in the net. While the ones who've volunteered struggle to clip the net on because balls are flying at them. 
 
 I created a nets rota. 
 
@@ -97,23 +105,23 @@ I used a great little app called <a href="https://itunes.apple.com/gb/app/lineup
 
 Picking a starting line-up was sometimes easy as it picked itself due to only having the bare 11. 
 
-You worried about what might happen when you right winger, whose knee has been strapped up like he's come out of surgery, hobbles off at half time. Hardly any of the team and 90 minutes in the tank. 
+You worried about what might happen when you right winger, whose knee has been strapped up like he's come out of surgery, hobbles off at half time. Hardly any of the team had 90 minutes in the tank. 
 
 It was really difficult when you had 18 players so you knew 4 players wouldn't be even getting on the pitch. Usually one of these would put a full kit on and then your captain would be asking for shorts.
 
-I hardly ever picked the best team. My choice was based on the previous result. If we won last week I tried to not change the team. Even if that meant your best player returns from a 2 week 18-30s holiday. 
+I hardly ever picked the best team. My choice was based on the previous result. If we won last week I tried to not change the team. Even if that meant your best player had returned from a 2 week 18-30s holiday. 
 
 I tried to be as fair as possible. Most disagreed with my decisions but it didn't seem fair to drop someone who'd been there every week.
 
 I always named the team 20 minutes before KO if possible. This would give those starting the chance to warm up. It also gave me time to apologise to those not starting and explain the reasons why. No one likes sitting on the bench. 
 
-Collecting subs to play was like a loan shark banging on your door. "Have you got your subs mate?", "They're in the car Jim, I'll pass you them after the game". They never did. I'd get to the car park after the game only to see them zooming off in their motor. "Can I give you double next week?", "you already owe three weeks!". 
+Collecting subs to play was like a loan shark at your door. "Have you got your subs mate?", "They're in the car Jim, I'll pass you them after the game". They never did. I'd get to the car park after the game only to see them zooming off in their motor. "Can I give you double next week?", "you already owe three weeks!"
 
 ### Formations 
 I tried several formations out. 
 
 4-1-4-1 worked well when up against top of the league. But your lone striker up top would complain all game of having no support or not getting a touch. 
-Stick to 4-4-2. But ensure you have 2 good centre midfielders else the opposition will dominate possession. 4-3-3 just gets complicated. And when it gets to around 70 minutes on the clock tired legs means no one's chasing back to defend. You end up with 6 strikers and 4 defenders screaming "where's the midfield?"
+Stick to 4-4-2. But ensure you have 2 good centre midfielders else the opposition will dominate possession. 4-3-3 just gets complicated. And when it gets to around 70 minutes on the clock, tired legs means no one's chasing back to defend. You end up with 6 strikers and 4 defenders screaming "where's the midfield?"
 
 ## Substitutes 
 I tried not to stand too close to the bench during the game. 
@@ -125,20 +133,25 @@ Then there were strangers on the side-line. Players' mates. If a fight broke out
 ## The Team Talk 
 Was pretty pointless. Why? Because they didn't listen. 
 
-I'd call the lads into a circle, ask for everyone's attention and try and give instructions of how I want them to play. I tried to be positive. It wasn't easy. Especially when we'd been beat 6-2 the week before. 
+I'd call the lads into a circle, ask for everyone's attention and try and give instructions of how I wanted them to play. I tried to be positive. It wasn't easy. Especially when we'd been beat 6-2 the week before. 
 
-You'd get one or two who are completely ignoring you. I'd ask them to keep the ball and let the opposition chase it. Don't take risks at the back and take a shot. 
+You'd get one or two who'd completely ignoring you. I'd ask them to keep the ball and let the opposition chase it. Don't take risks at the back and take a shot. 
 
-I'd then name the starting 11. One of the lads would come up and say "where am I playing"... I'd then smell lasts nights party on their breath and question whether if I'd made a mistake starting them. "I'm sound Jim, honest".
+I'd then name the starting 11 only for one of the lads to come up and ask "where am I playing?" ... I'd then smell lasts nights party on their breath and question whether if I'd made a mistake starting them. "I'm sound Jim, honest".
 
 ## Warm Up 
 I'd instruct the captain to get the lads warmed up. It was a small responsibility for wearing the armband. 
 
-Even this simple exercise couldn't be executed. Jogging from one side of the pitch to the other in one straight line together. There were always a few lazy buggers who's avoid the warm up all together. 
+Even this simple exercise couldn't be executed. Jogging from one side of the pitch to the other in one straight line together. There were always a few lazy buggers who'd avoid the warm up all together. 
 
 Instead, they'd finish their bacon butty from the food van then have a quick smoke but the ref blew to start. 
 
-Once they'd stretched out they'd then wander off towards our goal to practice corners. All pointless because they're never give that much time and space in the box. 
+Once they'd stretched out they'd then wander off towards our goal to practice corners and shots from distance. All pointless because they'd never be given that much time or space in the box. 
+
+<figure>		
+	<img alt="Goalkeeper" class="img-responsive" width="720" height="538" src="/images/goalkeeper.jpg" />
+	<figcaption>The usual warm up, take loads of shots at the keeper</figcaption>	
+</figure>
 
 ## The Referee
 Kicking off the match is what the whole weeks preparation was for. You'd shake hands with the ref and he'd give you one of his flags. It's now your responsibility to signal the ball going out.  
@@ -178,31 +191,32 @@ When you won it was a great feeling. You didn’t have any nails left after seei
 ## Leaving the Ground
 Someone always left their coat or even their boots and expected you to pick them up for them. Carrying a heavy bag of wet kits, nets, bottles and corner flags was a back breaker. I was lucky if someone helped. 
 
-Before I left I had to see the referee with the team sheets and pay him for his service. Question every poor decision he made and beg him not to put the bookings through to the FA. By this time everyone else has left.
+Before I left I had to see the referee with the team sheets and pay him for his service. Questioning every poor decision he made and beg him not to put the bookings through to the FA. By this time everyone else has left.
 
 ## Back the Boozer
 Most clubs have a pub to support them. In all my time of running clubs I never received a penny from a pub. But they did put food on for us now and then. 
 
-If we'd won then there was a great atmosphere. Everyone wanted to talk through the game and pat each other on the back. We'd also rip into each about mistake made or funny shouts. 
+If we'd won then there was a great atmosphere. Everyone wanted to talk through the match and pat each other on the back. We'd also rip into each about mistakes made or funny shouts we'd heared during the game. 
 
 If we lost then hardly anyone wanted to go back. We'd end up with three of us sitting in the corner with about 20 hot dogs to get through in silence. 
 
 ## Report the Score
-Your job wasn't over. Two hours after the game you had to ring the league with your result. Giving the names of each scorer so they could update their records. They'd also send the information to the local newspaper. 
+My job wasn't over. Two hours after the game I had to ring the league with the result. Giving the names of each scorer so they could update their records. They'd also send the information to the <a href="http://www.liverpoolecho.co.uk/all-about/corinthian" target="_blank">local newspaper</a>. 
 
 ## Monday Morning Blues 
 Depending on what the result was would dictate your mood for the next few days. 
 
 I'd receive notifications from the County FA from the match the week before for fines (yellow/red cards). Cheers ref! That's money we don't have and now our goalkeeper faces suspension for the next 3 fixtures. He didn't mean to call you all those mean names! 
 
-I'd also have to update the club website with the match result and stats plus who has and hasn't paid subs. 
-
-This helped keep a record on player stats which made it easy to pick the winners of awards for the end of season presentation night. 
+I'd also have to update the club website with the match result and stats plus who has and hasn't paid subs. This helped keep a record on player stats which made it easy to pick the winners of awards for the end of season presentation night. 
 
 ## Trophies 
 This was the best bit of the season for me. Giving recognition for those who'd stuck with you all season. 
 
-![Presentation Night](/images/presentation-night.jpg){: .img-responsive}
+<figure>		
+	<img alt="Presentation Night" class="img-responsive" width="960" height="717" src="/images/presentation-night.jpg" />
+	<figcaption>Presentation Night</figcaption>	
+</figure>
 
 Managers' player, players' player, most goals, most assists, best goal... Not forgetting 'most improved' which was just an insult/joke. 
 
