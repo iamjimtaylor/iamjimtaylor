@@ -150,7 +150,7 @@ It was worse when you gave it to the opposition and your own team would question
 I tried to avoid giving the ref abuse as I'd refereed games myself. But when a ref is dictating/spoiling the game sometimes you can't help yourself. But without them we have no game.
 
 ## Injuries 
-You need to have a first-aider on your side line as well as a first-aid kit in your bag. Especially if you're a charter standard club. 
+You need to have a first-aider on your side line as well as a first-aid kit in your bag. Especially if you're a FA Charter Standard club. 
 
 I had to take a first aid course with the County FA. I never had to put these skills to the test. Although my keeper once broke his jaw in a friendly which was pretty traumatic. Most injuries were either jarred ankles or hamstrings. 
 
