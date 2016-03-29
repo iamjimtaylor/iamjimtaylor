@@ -135,7 +135,7 @@ Was pretty pointless. Why? Because they didn't listen.
 
 I'd call the lads into a circle, ask for everyone's attention and try and give instructions of how I wanted them to play. I tried to be positive. It wasn't easy. Especially when we'd been beat 6-2 the week before. 
 
-You'd get one or two who'd completely ignoring you. I'd ask them to keep the ball and let the opposition chase it. Don't take risks at the back and take a shot. 
+The majority would completely ignore you. I'd ask them to keep the ball and let the opposition chase it. Don't take risks at the back and take a shot. 
 
 I'd then name the starting 11 only for one of the lads to come up and ask "where am I playing?" ... I'd then smell lasts nights party on their breath and question whether if I'd made a mistake starting them. "I'm sound Jim, honest".
 
