@@ -2,7 +2,7 @@
 layout: post
 title:  "Create a happier team with weekly one to one meetings"
 date:   2016-03-30 11:00:00 +0000
-excerpt: ""
+excerpt: "They say it's good to talk. Communication is key in any team."
 permalink: posts/create-a-happier-team-with-weekly-one-to-one-meetings/
 ---
 
