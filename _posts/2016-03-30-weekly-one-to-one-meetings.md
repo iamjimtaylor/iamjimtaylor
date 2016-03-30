@@ -18,7 +18,7 @@ You end up spending hours talking about what's caused these issues and try to re
 
 By the time you come to setting objectives for the next 3 months you're both exhausted from the process, which should of been a productive gathering. 
 
-## How do you avoid you team members from becoming frustrated beyond return?
+## How do you avoid your team members from becoming frustrated beyond return?
 
 Talk to them often. Schedule a weekly catch up with each member of your team on their own. It only needs to be for 10-15 minutes. Book it in both your diaries after agreeing a time slot and hold the 'informal chat' away from their desks. Even take them out the office if it warrants it. A catch up in the coffee shop across the road can be more effective.
 
@@ -43,7 +43,7 @@ For example, "My PC keeps shutting down every hour so I'm losing at least 45 min
 Some team members may raise what I call HR issues. Where they are unhappy about something that's more than a poor process. Issues like these need to be escalated to your HR department. But it's important you keep your team member updated on progress - "I've spoken to HR, they're currently arranging a catch up with you."
 
 ### Get in tune
-Now your team member has aired any issues and felt listened to you now have an opportunity to bring them up to speed with what's happening. This way you're both on the same page. If changes happen later on then they're less of a surprise. Surprises can cause frustration. We don't like change. We like to feel comfortable. So putting something on the horizon is a good thing. 
+Now your team member has aired any issues and felt listened to, you now have an opportunity to bring them up to speed with what's happening. This way you're both on the same page. If changes happen later on then they're less of a surprise. Surprises can cause frustration. We don't like change. We like to feel comfortable. So putting something on the horizon is a good thing. 
 
 ### Performance Review
 At Ph.Creative we hold quarterly (every 3 months) appraisal reviews. As part of these we set Objectives together. Every month during the one to ones it's worth checking in on progress to see if any have been achieved and if they need any support to do so. It avoids them panicking a few days before their appraisal because they've 'totally forget' about them. 
@@ -68,6 +68,6 @@ Before you finish, give them a heads up of what you're up to or working on. They
 - they feel wanted, listened to and recognised. Give them a voice.
 - it improves theirs and your communication skills.
 - it helps to get away from your desk if you're stuck at it for 8 hours a day.
-- they're respect you more because you're there for them. Helping them be more productive each day.
+- they'll respect you more because you're there for them. Helping them be more productive each day.
 
 Thanks for reading. Feel free to share. 
