@@ -30,3 +30,7 @@ header_links:
     text: Blog
     title: View blog posts I've written
     blank: false
+
+gems: 
+  - jekyll-sitemap
+
