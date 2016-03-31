@@ -32,9 +32,9 @@ Bryan was looking at some of my work on his screen as I took a seat and all I co
 
 Most of the interview was a blur as I tried to keep my nerves in check. I accepted the offer of a cup of tea but struggled to take a sip as I couldn't keep my own hand steady. Spilling some of it down my chin hoping Bryan, who was sitting facing me, didn't see.
 
-A week or so had passed and I'd not heard anything back. I thought I'd not got the job. So I took the initiative to rang up and see if a decision had been made on the role.
+A week or so had passed and I'd not heard anything back. I thought I'd not got the job. So I took the initiative to ring up and see if a decision had been made on the role.
 
-The reception explained they'd tried to contact me but my number on my CV was wrong!
+The receptionist explained they'd tried to contact me but my number on my CV was wrong!
 
 Thankfully, even with that blunder, I was offered the job on the call which I gratefully accepted. 
 
