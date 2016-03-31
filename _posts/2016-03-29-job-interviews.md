@@ -52,7 +52,7 @@ Stand out from the crowd. I tend to quickly scan through a CV to look for key sk
 Put the correct information in. I could of lost my opportunity if I hadn't of followed up.
 
 ### Arrive on time
-Never turn up late. there's no excuse. By 20 minutes early if you have to. If you're late for something as important as this, what will you be like on a daily basis?
+Never turn up late. there's no excuse. Be 20 minutes early if you have to. If you're late for something as important as this, what will you be like on a daily basis?
 
 ### Do your homework
 
