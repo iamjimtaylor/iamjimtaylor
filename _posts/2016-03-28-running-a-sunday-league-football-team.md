@@ -17,7 +17,7 @@ image_height: 717
 </blockquote> 
 
 It is hard graft, but I loved it. And although there were more downs than ups, I've learnt a lot. 
-I was a Sunday League Manager for over 6 years until I called it a day recently. This is my opinion based on my experiences which I've taken into my professional career and vice versa.
+I was a Sunday League Manager for over 8 years until I called it a day recently. This is my opinion based on my experiences which I've taken into my professional career and vice versa.
 Others will have different ideas. So take it or leave it...
 
 ## The League
@@ -27,7 +27,7 @@ Every Tuesday, if you are the home team you have to ring the referee with a cour
 
 Some managers leave it till Saturday afternoon to call you if you are the away team. The league committee encourages you to ring the league of a Wednesday if your opposition haven't rang. So you could 'claim the points'. It's not something I ever did but I'd heard teams had claimed in the past. 
 
-When Thursday night came around I'd text every player. I used a group app to text everyone the fixture details. Who we were playing, where when and remind them about subs. 
+When Thursday night came around I'd text every player. I used a group app to text everyone the fixture details. Who we were playing, where, when and remind them about subs. 
 
 I'd ask for a reply of either IN or OUT so I knew if we had a team and begin thinking about who would start. I used the Notes app on my phone to keep a log. I often had to chase one or two who'd forget to reply or were 'credit meffs'.
 
