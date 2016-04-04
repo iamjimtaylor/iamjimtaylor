@@ -144,7 +144,7 @@ I'd instruct the captain to get the lads warmed up. It was a small responsibilit
 
 Even this simple exercise couldn't be executed. Jogging from one side of the pitch to the other in one straight line together. There were always a few lazy buggers who'd avoid the warm up all together. 
 
-Instead, they'd finish their bacon butty from the food van then have a quick smoke but the ref blew to start. 
+Instead, they'd finish their bacon butty from the food van then have a quick smoke before the ref blew to start. 
 
 Once they'd stretched out they'd then wander off towards our goal to practice corners and shots from distance. All pointless because they'd never be given that much time or space in the box. 
 
