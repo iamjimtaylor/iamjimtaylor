@@ -105,7 +105,7 @@ I used a great little app called <a href="https://itunes.apple.com/gb/app/lineup
 
 Picking a starting line-up was sometimes easy as it picked itself due to only having the bare 11. 
 
-You worried about what might happen when you right winger, whose knee has been strapped up like he's come out of surgery, hobbles off at half time. Hardly any of the team had 90 minutes in the tank. 
+You worried about what might happen when your right winger, whose knee has been strapped up like he's come out of surgery, hobbles off at half time. Hardly any of the team had 90 minutes in the tank. 
 
 It was really difficult when you had 18 players so you knew 4 players wouldn't be even getting on the pitch. Usually one of these would put a full kit on and then your captain would be asking for shorts.
 
