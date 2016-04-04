@@ -178,7 +178,7 @@ Water at the ready. (I once did oranges for a season too until someone said "why
 
 This gave me 3 minutes to tell the lads what I was seeing from the side-line and what we needed to improve on. Just like the team talk an hour ago, this was also pointless. 
 
-When member of the team talked over me I found it disrespectful. I had to restrain myself from doing something I'd regret with the refs flag when a stranger on the side-line butted in with their two pence worth. 
+When a member of the team talked over me I found it disrespectful. I had to restrain myself from doing something I'd regret with the refs flag when a stranger on the side-line butted in with their two pence worth. 
 
 Making wholesale changes at half time was always a bad idea. Unless we had injuries. 
 
