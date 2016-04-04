@@ -29,9 +29,9 @@ I was disappointed the client had asked for this during UAT. They'd signed off t
 
 If you're not in that place (it doesn't happen often) then we ask the question "what's the problem you're trying to solve" then the solution could be a much aesthetically please one. 
 
-"Can you make the logo bigger."
-"I can yes, but why?"
-"We want it to stand out more to emphasise the brand"
+"Can you make the logo bigger."<br>
+"I can yes, but why?"<br>
+"We want it to stand out more to emphasise the brand."
 
 There are better ways of making it stand out more rather than increase its size. It's position could be a factor. Rather than place it on the far left, move it to the centre. Or simply create more space around it to give it greater prominence. 
 
@@ -55,7 +55,7 @@ This is where you can split test to see what works best. If the client won't bac
 	<p>Ask not what your logo can do for your website but what your website can do for your logo.</p>
 </blockquote>
 
-The 'make the logo bigger' request is a common request and one all designers joke about. So much so there are some pretty funny spoofs in the web. My favourite has to be the 'make the logo bigger cream': 
+The 'make the logo bigger' request is a common request and one all designers joke about. So much so there are some pretty funny spoofs on the web. My favourite has to be the 'make the logo bigger cream': 
 
 <!-- Embed -->
 <div class="embed-responsive embed-responsive-16by9">
