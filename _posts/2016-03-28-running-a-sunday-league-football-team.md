@@ -196,7 +196,7 @@ Before I left I had to see the referee with the team sheets and pay him for his 
 ## Back the Boozer
 Most clubs have a pub to support them. In all my time of running clubs I never received a penny from a pub. But they did put food on for us now and then. 
 
-If we'd won then there was a great atmosphere. Everyone wanted to talk through the match and pat each other on the back. We'd also rip into each about mistakes made or funny shouts we'd heared during the game. 
+If we'd won then there was a great atmosphere. Everyone wanted to talk through the match and pat each other on the back. We'd also rip into each about mistakes made or funny shouts we'd heard during the game. 
 
 If we lost then hardly anyone wanted to go back. We'd end up with three of us sitting in the corner with about 20 hot dogs to get through in silence. 
 
