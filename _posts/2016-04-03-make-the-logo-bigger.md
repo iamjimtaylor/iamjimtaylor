@@ -65,7 +65,7 @@ The 'make the logo bigger' request is a common request and one all designers jok
 
 A tube of cream which can be spread onto any logo whether on paper or screen and will instantly increase the size. 
 
-There's even a <a href="https://chrome.google.com/webstore/detail/make-the-logo-bigger/deebfffgmhmombfphcbeknkipbfklmna">Chrome Extension</a> to solve the problem.
+There's even a <a href="https://chrome.google.com/webstore/detail/make-the-logo-bigger/deebfffgmhmombfphcbeknkipbfklmna" target="_blank">Chrome Extension</a> to solve the problem.
 
 Thanks for reading. Here's a song to finish: 
 
