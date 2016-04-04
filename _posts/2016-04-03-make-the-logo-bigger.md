@@ -14,6 +14,8 @@ image_height: 702
 
 It's natural. They believe changing something which isn't right in their opinion will make an improvement. Without sounding condescending, we're the experts!  
 
+## The Problem
+
 I was recently asked to test a website in UAT (user acceptance testing). My first thought when the homepage loaded on my laptop was 'why is the fixed header (logo, nav, search) taking up a 3rd of the screen?' Part of the process is to ensure the build matches the visual. The header section in the visuals didn't take up so much space. 
 
 So what's the issue? Why doesn't it look the same? The logo! Because the logo was almost 50% larger than what it was in the designs the space it was taking up had naturally increased the size of its container. It also made everything else within the header look unbalanced. "What's going on here" I asked the Dev team. I didn't have to ask, I already knew the answer... 
@@ -46,7 +48,7 @@ If heat mapping tells us no one clicks the logo, does this warrant increasing it
 Maybe users are more comfortable clicking the 'home' link in the navigation. What if we  took the home link out of the nav? Would heat mapping show an increase in logo clicks? 
 Ultimately what's the purpose of the page? If it's to click something else then do we need to increase the number of clicks on the logo?
 
-## Split Testing
+### Split Testing
 This is where you can split test to see what works best. If the client won't back down and you're adamant it won't improve anything but in fact, make it worse then you could suggest a/b testing. 
 
 <blockquote>
