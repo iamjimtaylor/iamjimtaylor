@@ -6,14 +6,32 @@
    ==================================================
 */
 
+.blog-list-header {
+	margin-bottom: 0px;
+}
+
 /* ==========================================================================
 #blog detail 
 ========================================================================== */
 
 .posts-row {
 	li {
-		p { margin-bottom: 0px;}
-		Margin-bottom: 20px;
+		h3 {
+			margin-bottom: 0px;
+		}
+		.image {
+			margin: 10px 0px;
+			display: block;
+		}
+
+		p { 
+			margin-bottom: 0px;
+		}
+		.btn-default {
+			font-size: 14px;
+		}
+		padding: 20px 0;
+		border-bottom: 1px dashed #373b4e;
 	}
 }
 
