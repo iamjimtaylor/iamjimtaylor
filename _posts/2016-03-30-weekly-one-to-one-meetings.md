@@ -69,5 +69,3 @@ Before you finish, give them a heads up of what you're up to or working on. They
 - it improves theirs and your communication skills.
 - it helps to get away from your desk if you're stuck at it for 8 hours a day.
 - they'll respect you more because you're there for them. Helping them be more productive each day.
-
-Thanks for reading. Feel free to share. 

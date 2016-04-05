@@ -95,5 +95,3 @@ Bring food or drinks to the interview. Or present a set of creative slides about
 ### Ask for feedback
 
 Whether you got the job or not, it’s good to know why. Learn from the experience for next time. 
-
-Thanks for reading. Feel free to share. 

@@ -1,0 +1,36 @@
+<div class="share-article clearfix">
+	<p>Thanks for reading.</p>
+    <h4>Feel free to share this post</h4>
+    <ul class="list-unstyled list-inline list-share-icons">
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}" onclick="javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=436,width=626&#39;);return false;" target="_blank">
+                <i class="fa fa-facebook"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url }}%2f&text={{ page.title }}&via={{ site.handle }}" onclick="javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=436,width=626&#39;);return false;" target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}" onclick="javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=436,width=626&#39;);return false;">
+                <i class="fa fa-google-plus"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.pinterest.com/pin/create/button/?url={{ page.url | prepend: site.url }}&media={{ page.image_url | prepend: site.url }}&description={{ page.title }}" onclick="javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=436,width=626&#39;);return false;" target="_blank">
+                <i class="fa fa-pinterest"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url }}%2f&title={{ page.title }}&summary={{ page.excerpt }}" onclick="javascript:window.open(this.href, &#39;&#39;, &#39;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=436,width=626&#39;);return false;" target="_blank">
+                <i class="fa fa-linkedin"></i>
+            </a>
+        </li>
+        <li>
+            <a class="product_share_email" href="mailto:?subject={{ page.title }}&body=I found this great article - {{ page.url | prepend: site.url }}" target="_blank">
+                <i class="fa fa-envelope-o"></i>
+            </a>
+        </li>
+    </ul>
+</div>

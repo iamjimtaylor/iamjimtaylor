@@ -62,4 +62,4 @@ Let this experiment run for as long as you can, a minimum of three weeks, until 
 
 Then run another experiment and another until your conversion rate is where you want it to be. This is what we call CRO - Conversion Rate Optimisation 
 
-Thanks for reading - good luck with your tests. 
+Good luck with your tests!

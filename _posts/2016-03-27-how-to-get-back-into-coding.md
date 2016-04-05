@@ -60,5 +60,3 @@ Anyways... Within a few hours of registering a domain and updating the DNS my ne
 
 And there you have it. I'm coding again. 
 I've also written a blog post! Two birds one stone. If you're thinking about doing anything. Just start. 
-
-Thanks for reading. Feel free to share. 

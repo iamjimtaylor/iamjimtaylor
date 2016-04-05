@@ -67,7 +67,7 @@ A tube of cream which can be spread onto any logo whether on paper or screen and
 
 There's even a <a href="https://chrome.google.com/webstore/detail/make-the-logo-bigger/deebfffgmhmombfphcbeknkipbfklmna" target="_blank">Chrome Extension</a> to solve the problem.
 
-Thanks for reading. Here's a song to finish: 
+Here's a song to finish: 
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5AxwaszFbDw" frameborder="0" allowfullscreen></iframe>
