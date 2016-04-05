@@ -6,8 +6,8 @@ excerpt: "I was a Sunday League Manager for over 8 years until I called it a day
 permalink: posts/running-a-sunday-league-football-team/
 image_url: /images/the-arkles-fc.jpg
 image_alt: The stereotypical team photo
-image_width: 960
-image_height: 717
+image_width: 750
+image_height: 560
 ---
 
 <p class="lead">You want my advice? I'm tempted to say don't do it.</p>
@@ -52,7 +52,7 @@ One of the main reasons I did all this was for the banter with the lads.
 All players ask for it. Especially after a defeat. "We need to start training together!" So you organise training, everyone turns up the first week but by the time you get to the 3rd week you're down to 6 men and you end up cancelling it again. 
 
 <figure>		
-	<img alt="Training" class="img-responsive" width="960" height="720" src="/images/preseason-training.jpg" />
+	<img alt="Training" class="img-responsive" width="750" height="562" src="/images/preseason-training.jpg" />
 	<figcaption>Training - good while it lasted</figcaption>	
 </figure>
 
@@ -214,7 +214,7 @@ I'd also have to update the club website with the match result and stats plus wh
 This was the best bit of the season for me. Giving recognition for those who'd stuck with you all season. 
 
 <figure>		
-	<img alt="Presentation Night" class="img-responsive" width="960" height="717" src="/images/presentation-night.jpg" />
+	<img alt="Presentation Night" class="img-responsive" width="750" height="560" src="/images/presentation-night.jpg" />
 	<figcaption>Presentation Night</figcaption>	
 </figure>
 
