@@ -18,6 +18,13 @@
 	li {
 		h3 {
 			margin-bottom: 0px;
+			a.posts-link {
+				transition: 0.5s;
+				&:hover {
+					margin-left: 0.1em;
+				}
+			}
+			
 		}
 		.image {
 			margin: 10px 0px;
