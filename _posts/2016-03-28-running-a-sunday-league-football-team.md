@@ -52,7 +52,7 @@ One of the main reasons I did all this was for the banter with the lads.
 All players ask for it. Especially after a defeat. "We need to start training together!" So you organise training, everyone turns up the first week but by the time you get to the 3rd week you're down to 6 men and you end up cancelling it again. 
 
 <figure>		
-	<img alt="Training" class="img-responsive" width="750" height="562" src="/images/preseason-training.jpg" />
+	<img alt="Training" class="img-responsive" width="750" height="563" src="/images/preseason-training.jpg" />
 	<figcaption>Training - good while it lasted</figcaption>	
 </figure>
 
@@ -149,7 +149,7 @@ Instead, they'd finish their bacon butty from the food van then have a quick smo
 Once they'd stretched out they'd then wander off towards our goal to practice corners and shots from distance. All pointless because they'd never be given that much time or space in the box. 
 
 <figure>		
-	<img alt="Goalkeeper" class="img-responsive" width="720" height="538" src="/images/goalkeeper.jpg" />
+	<img alt="Goalkeeper" class="img-responsive" width="750" height="560" src="/images/goalkeeper.jpg" />
 	<figcaption>The usual warm up, take loads of shots at the keeper</figcaption>	
 </figure>
 
