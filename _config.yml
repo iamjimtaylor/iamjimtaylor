@@ -1,5 +1,7 @@
 
-# Site Settings
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
 title: Jim Taylor | Front-end Developer
 name: Jim Taylor
 handle: iamjimtaylor
@@ -8,29 +10,17 @@ description: "Jim Taylor - I'm a self-motivated, creative and solution focused S
 baseurl: "" 
 url: "http://iamjimtaylor.com"
 
-# Build Settings
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 markdown: kramdown
 sass:
   style: compressed
 
-# Main Navigation
-header_links:
-  - link:
-    url: /
-    text: Home
-    title: Jim Taylor
-    blank: false
-  - link:
-    url: /about/
-    text: About
-    title: A little bit about myself
-    blank: false
-  - link:
-    url: /posts/
-    text: Blog
-    title: View blog posts I've written
-    blank: false
-
 gems: 
   - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 5          # gem install jekyll-paginate
+paginate_path: "/posts/page:num/"  
 

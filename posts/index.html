@@ -9,10 +9,39 @@ excerpt: "Blog posts written by Jim Taylor"
 
 		<div class="posts">
 			<ul class="posts-row list-unstyled" itemscope itemType="http://schema.org/Blog">
-				{% for post in site.posts %} 
+				{% for post in paginator.posts %} 
 				{% include post/post-row.html %}
 				{% endfor %}
 			</ul>
+
+			<nav class="text-center">
+			  <ul class="pagination">
+			  	{% if paginator.previous_page %}
+			    <li>
+			      <a href="#" aria-label="Previous">
+			        <span aria-hidden="true">&laquo;</span>
+			      </a>
+			    </li>
+			    {% endif %}
+				{% for page in (1..paginator.total_pages) %}
+					{% if page == paginator.page %}
+					<li class="active"><span>{{ page }}</span></li>
+					{% elsif page == 1 %}
+					<li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+					{% else %}
+					<li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+					{% endif %}
+				{% endfor %}
+			    {% if paginator.next_page %}
+			    <li>
+			      <a href="#" aria-label="Next">
+			        <span aria-hidden="true">&raquo;</span>
+			      </a>
+			    </li>
+			    {% endif %}
+			  </ul>
+			</nav>
+
 		</div>
 	</section>
-</div>	
+</div>
