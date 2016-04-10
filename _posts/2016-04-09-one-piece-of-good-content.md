@@ -17,7 +17,7 @@ Everything has already been said in web development. With my experience in Sunda
 
 ## Influence 
 
-I was originally inspired by the brilliant team talk spoof. My post was real however. 
+I was originally inspired by this brilliant team talk spoof. My post was real however. 
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9qs_5Q9g8kE" frameborder="0" allowfullscreen></iframe>
