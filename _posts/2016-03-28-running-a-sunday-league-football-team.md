@@ -128,7 +128,7 @@ I tried not to stand too close to the bench during the game.
 
 The substitutes on the bench would commentate and criticise their team mates for the whole duration. The negativity would drive me insane. Everyone thought they could do a better job on the pitch and a better job at managing. "I don't know why he's starting before me..." - Probably because you've not been here the last two weeks and haven't even brought money with you.  
 
-Then there were strangers on the side-line. Players' mates. If a fight broke out on the pitch they'd be the first to run on and jump in. It's your responsibility as the manger to control the side-line... Every man and his dog.
+Then there were strangers on the side-line. Players' mates. If a fight broke out on the pitch they'd be the first to run on and jump in. It's your responsibility as the manager to control the side-line... Every man and his dog.
 
 ## The Team Talk 
 Was pretty pointless. Why? Because they didn't listen. 
