@@ -53,7 +53,7 @@ One week later Facebook had recorded 3,120 Likes, 1,285 Shares, 1,913 Comments. 
 	<figcaption>People Talking</figcaption>	
 </figure>
 
-Unique Users for just this one page had hit 41,167. 
+Unique Users for just this one page had hit 40,167. 
 
 <figure>		
 	<img alt="Analytics" class="img-responsive" width="1137" height="614" src="/images/user-stats.png" />
