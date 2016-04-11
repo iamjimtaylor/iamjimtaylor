@@ -73,7 +73,7 @@ I began reading the comments of ex managers reminiscing and their old players jo
 
 The majority of the comments on Facebook saying it were 100% spot on and well written. Which makes me laugh as my <a href="http://iamjimtaylor.com/posts/how-to-get-back-into-coding/" target="_blank">previous post</a> talks about how I can't/don't write.
 
-This was favourite:
+This was my favourite:
 
 <figure>		
 	<img alt="Analytics" class="img-responsive" width="300" height="94" src="/images/who-is-jim-taylor.png" />
