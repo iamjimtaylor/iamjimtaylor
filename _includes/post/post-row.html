@@ -29,7 +29,7 @@
             </span>
         </a>{% endif %}
 
-    	<p itemprop="description">{{ post.excerpt }} 
+    	<p itemprop="description">{{ post.excerpt | truncate: 300 }} 
     	<a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" rel="" title="Read more">Read more...</a></p>
     </li>
   
