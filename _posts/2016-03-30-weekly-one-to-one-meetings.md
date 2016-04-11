@@ -2,8 +2,9 @@
 layout: post
 title:  "Create a happier team with weekly one to one meetings"
 date:   2016-03-30 11:00:00 +0000
-excerpt: "They say it's good to talk. Communication is key in any team."
+meta_description: "They say it's good to talk. Communication is key in any team."
 permalink: posts/create-a-happier-team-with-weekly-one-to-one-meetings/
+excerpt: "They say it's good to talk. Communication is key in any team. Appraisals are a major part of staff development. If you hardly speak to your team as their senior manager or team leader, then they'll most likely take this opportunity to air their frustrations from the past 3-12 months."
 ---
 
 <p class="lead">They say it's good to talk. Communication is key in any team.</p>

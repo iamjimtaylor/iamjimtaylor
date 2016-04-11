@@ -2,12 +2,13 @@
 layout: post
 title:  "Can you make the logo bigger?"
 date:   2016-04-03 15:00:00 +0000
-excerpt: "9 times out of 10 a client will give me a solution without telling me what the problem they're trying to solve is when it comes to making changes to their website."
+meta_description: "9 times out of 10 a client will give me a solution without telling me what the problem they're trying to solve is when it comes to making changes to their website."
 permalink: posts/make-the-logo-bigger/
 image_url: /images/google-big-logo.png
 image_alt: Bigger Google Logo
 image_width: 1366
 image_height: 702
+excerpt: "9 times out of 10 a client will give me a solution without telling me what the problem they're trying to solve is when it comes to making changes to their website. "
 ---
 
 <p class="lead">9 times out of 10 a client will give me a solution without telling me what the problem they're trying to solve is when it comes to making changes to their website.</p>

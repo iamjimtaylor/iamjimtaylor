@@ -2,12 +2,13 @@
 layout: post
 title:  "Running a Sunday League Football Team"
 date:   2016-03-28 18:40:00 +0000
-excerpt: "I was a Sunday League Manager for over 8 years until I called it a day recently. This is my opinion based on my experiences."
+meta_description: "I was a Sunday League Manager for over 8 years until I called it a day recently. This is my opinion based on my experiences."
 permalink: posts/running-a-sunday-league-football-team/
 image_url: /images/the-arkles-fc.jpg
 image_alt: The stereotypical team photo
 image_width: 750
 image_height: 560
+excerpt: "You want my advice? I'm tempted to say don't do it. I was a Sunday League Manager for over 8 years until I called it a day recently. This is my opinion based on my experiences."
 ---
 
 <p class="lead">You want my advice? I'm tempted to say don't do it.</p>

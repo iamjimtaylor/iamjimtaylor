@@ -2,15 +2,16 @@
 layout: post
 title:  "One Piece Of Good Content"
 date:   2016-04-09 15:00:00 +0000
-excerpt: "I've not written anything for a week as I'm still getting over the response of one of my latest posts - Running a Sunday League Football Team"
+meta_description: "I've not written anything for a week as I'm still getting over the response of one of my latest posts - Running a Sunday League Football Team"
 permalink: posts/one-piece-of-good-content/
 image_url: /images/google-analytics.png
 image_alt: Website Traffic
 image_width: 1112
 image_height: 398
+excerpt: "I've not written anything for a week as I'm still getting over the response of one of my latest posts - Running a Sunday League Football Team."
 ---
 
-I've not written anything for a week as I'm still getting over the response of one of my latest posts - <a href="http://iamjimtaylor.com/posts/running-a-sunday-league-football-team/" target="_blank">Running a Sunday League Football Team</a>
+I've not written anything for a week as I'm still getting over the response of one of my latest posts - <a href="http://iamjimtaylor.com/posts/running-a-sunday-league-football-team/" target="_blank">Running a Sunday League Football Team</a>.
 
 When I launched this site I was trying to think of what to write about. 
 Everything has already been said in web development. With my experience in Sunday League Management there wasn't much out there. 
