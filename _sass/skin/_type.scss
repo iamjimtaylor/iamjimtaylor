@@ -14,6 +14,7 @@
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6,
 .page-header {
+	font-family: 'Domine', serif;
 	margin-top: 0;
 	padding: 0;
 	border-bottom:none;
@@ -31,7 +32,9 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1, .page-header {	
-	@include spread-value(font-size, $font-size-h1-small, $font-size-h1); color: #fff;
+	@include spread-value(font-size, $font-size-h1-small, $font-size-h1); 
+	color: #fff;
+	text-align: center;
 }
 
 h2, .h2 {
@@ -50,11 +53,12 @@ h5, .h5 {
 	font-size: $font-size-h5;
 }
 
-.cms-content {
+.post-content {
 	p, ol, ul {		
 		&:last-child {
 			//margin-bottom: 0; 
 		}
+		
 	}
 }
 .lead {  
