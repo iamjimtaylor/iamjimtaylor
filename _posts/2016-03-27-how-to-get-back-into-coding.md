@@ -2,9 +2,9 @@
 layout: post
 title:  "How to get back into coding"
 date:   2016-03-27 15:00:00 +0000
-meta_description: "I tweeted an article</a> I'd read not long ago about how to start writing. As I wanted to do the same. I also wanted to start coding again."
+meta_description: "I tweeted an article I'd read not long ago about how to start writing. As I wanted to do the same. I also wanted to start coding again."
 permalink: posts/how-to-get-back-into-coding/
-excerpt: "I tweeted an article</a> I'd read not long ago about how to start writing. As I wanted to do the same. I also wanted to start coding again. How? You just start."
+excerpt: "I tweeted an article I'd read not long ago about how to start writing. As I wanted to do the same. I also wanted to start coding again. How? You just start."
 ---
 
 I <a href="https://twitter.com/iamjimtaylor/status/713132834052055041" target="_blank">tweeted an article</a> I'd read not long ago about how to start writing. As I wanted to do the same. I also wanted to start coding again.
