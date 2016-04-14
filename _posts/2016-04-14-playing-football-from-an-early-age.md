@@ -68,6 +68,7 @@ A few favourites of mine, not necessarily his;
 
 ### Monkey in the cage
 With cones in a massive circle the coach sits in the centre with two mini pop up nets like a cage. The kids have to jog, run, hop and skip around the circle while the monkey shakes the cage. Then the monkey screams and jumps out and all the kids have to lie down behind a cone each. 
+
 The first time, my son was petrified and would just lie on the floor for the remainder of the exercise while the other kids ran around him or leapt over him. The second time they played this game he made his own rules up by running round the circle while carrying a cone he'd pinched, under his arm. So instead of finding a cone to hide behind he'd simply drop to the floor and hide behind his stolen cone.
 
 ### Unfreeze a friend
@@ -115,7 +116,7 @@ He has his off days were he may seem tired and his attention goes out the door. 
 
 ### Pride
 
-Seeing him in his Little Lickers football kit and tiny Adidas boots always brings a smile to my face. I've bought him a little size one ball for home and kept some cones, from when I managed a Sunday league team, for him to play with.
+Seeing him in his Little Kickers football kit and tiny Adidas boots always brings a smile to my face. I've bought him a little size one ball for home and kept some cones, from when <a href="http://iamjimtaylor.com/posts/running-a-sunday-league-football-team/">I managed a Sunday league team</a>, for him to play with.
 
 <figure>		
 	<img alt="Boots and Ball" class="img-responsive" width="600" height="600" src="/images/ball-and-boots.jpg" />
