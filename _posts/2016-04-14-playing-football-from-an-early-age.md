@@ -2,9 +2,13 @@
 layout: post
 title:  "Playing football from an early age"
 date:   2016-04-14 18:00:00 +0000
-meta_description: ""
+meta_description: "When my son was born my first thought was when can he start playing football?"
 permalink: posts/playing-football-from-an-early-age/
-excerpt: ""
+image_url: /images/little-kicker.jpg
+image_alt: Little Kicker
+image_width: 750
+image_height: 560
+excerpt: "When my son was born my first thought was when can he start playing football? As an ex Sunday league football manager I wanted him kicking a ball from day one."
 ---
 
 <p class="lead">When my son was born my first thought was when can he start playing football?</p>
