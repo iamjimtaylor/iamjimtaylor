@@ -36,7 +36,7 @@ They start from the age of 18 months.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/xavmLqZuzY0" frameborder="0" allowfullscreen></iframe>
 </div><br>
 
-I signed my son up just as he was approaching 3 years old for a 12 week session in the 'Mighty Kickers' group aged 3½ - 5 years old. He's one of the youngest but due to his tall height he looks a lot older.
+I signed my son up just as he was approaching 3 years old for a 12 week session in the 'Mighty Kickers' group aged 3½ - 5 years old. He's one of the youngest but due to his height he looks a lot older.
 
 <figure>		
 	<img alt="Signing On" class="img-responsive" width="620" height="620" src="/images/little-kickers-signon.jpg" />
@@ -47,8 +47,7 @@ I signed my son up just as he was approaching 3 years old for a 12 week session 
 
 The classes are really clever. It really surprised me. It wasn't all about kicking a ball around for an hour. It's all about fun and games. 
 
-After signing him into class he's giving a tiny red sticker for his right foot and blue sticker for left foot. This alone excites him.
-He then had 10 minutes to kick a ball around the room before class begins. 
+After signing him into class he's given a tiny red sticker for his right foot and blue sticker for his left foot. This alone excites him. He then has 10 minutes to kick a ball around the room before class begins. 
 
 Rather than shoot for goal he sometimes likes to pick the ball up and aim for the basketball nets instead! 
 
@@ -57,7 +56,7 @@ A key part to playing a match is the preparation. The group begin by sitting in 
 
 For the first 3-4 weeks my son put his fingers in his mouth and whispered his name. But week by week I watched his confidence slowly begin to grow. By week 10 he was shouting his name at the top of his voice with a great big smile.
 
-Once introduction are done the warm up begin. With 'wriggly fingers' arms out, still sitting down. Swimming forwards and backwards, getting the arms going. Feet together waving their toes side to side they then begin to stamp their heels to 'wake the parents'. 
+Once introductions are done the warm up begins. With 'wriggly fingers' arms out, still sitting down. Swimming forwards and backwards, getting the arms going. Feet together waving their toes side to side they then begin to stamp their heels to 'wake the parents'. 
 
 After their sit down drills they move on to sit up sit down games, leap frogs and star jumps including arms out and leaning side to side. Every week my son would shout out, "You look like Dusty from Disney Planes." 
 
@@ -69,7 +68,7 @@ A few favourites of mine, not necessarily his;
 
 ### Monkey in the cage
 With cones in a massive circle the coach sits in the centre with two mini pop up nets like a cage. The kids have to jog, run, hop and skip around the circle while the monkey shakes the cage. Then the monkey screams and jumps out and all the kids have to lie down behind a cone each. 
-The first time, my son was petrified and would just lie on the floor for the remainder of the exercise while the other kids ran around him or leapt over him. 
+The first time, my son was petrified and would just lie on the floor for the remainder of the exercise while the other kids ran around him or leapt over him. The second time they played this game he made his own rules up by running round the circle while carrying a cone he'd pinched, under his arm. So instead of finding a cone to hide behind he'd simply drop to the floor and hide behind his stolen cone.
 
 ### Unfreeze a friend
 The group would have to run from one side of the room to the other and collect coloured cones and take them back to the side they came from. At the same time the coaches are trying to tag the kids. If they're tagged they have to freeze and not move until one of the other kids tag them on the arm to unfreeze them. I watch my son cleverly come up with a way of avoiding being tagged altogether. Run right round the outside. Basically cheating. But was interesting to watch him develop a different tactic. 
@@ -80,7 +79,7 @@ You'll see from their YouTube video the kids running round holding the cones lik
 
 
 ## Ball skills
-After another drink break the balls come out and the coaches have the kids doing some basic ball work such as dropping the ball and putting their foot on it. Little kicks to work on control. My sons favourite, squeezing the ball between their feet and jumping in the air. 
+After another drink break the footballs are brought back out and the coaches have the kids doing some basic ball work such as dropping the ball and putting their foot on it. Little kicks to work on control. My sons favourite, squeezing the ball between their feet and jumping in the air. 
 I found when he does something he's good at he like to tell everyone. "I can do that, I can do that." He's not alone. The little shouts of "look coach, look..." from the majority of the little ones.
 
 <figure>		
