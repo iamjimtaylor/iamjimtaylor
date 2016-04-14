@@ -45,11 +45,12 @@ I signed my son up just as he was approaching 3 years old for a 12 week session 
 
 ## Learning through play
 
-The classes are really clever. It's really surprised me. It wasn't all about kicking a ball around for an hour. It's all about fun and games. 
+The classes are really clever. It really surprised me. It wasn't all about kicking a ball around for an hour. It's all about fun and games. 
 
-After signing him into class he's giving a tiny red sticker for his right foot and blue sticker for left. He then had 10mins to kick a ball around the room before class begins. 
+After signing him into class he's giving a tiny red sticker for his right foot and blue sticker for left foot. This alone excites him.
+He then had 10 minutes to kick a ball around the room before class begins. 
 
-Rather than shoot for goal he sometimes likes to pick the ball up and aim for the netball nets instead! 
+Rather than shoot for goal he sometimes likes to pick the ball up and aim for the basketball nets instead! 
 
 ## The warm up
 A key part to playing a match is the preparation. The group begin by sitting in a big circle with the coaches and go round in a circle with everyone shouting their name. Each shout is met with a "good morning James..." from the group with a wave. 
