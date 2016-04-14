@@ -246,3 +246,5 @@ You're probably questioning why do you love it then? I just did.
 The lads, the banter, the football. I got to let off steam screaming at the lads to get back and defend. I managed so many players, different characters, made some good friends. All that helped me in some way or another with my own confidence and leadership. 
 
 If you're a Sunday League Manager, associated with a team or you're thinking about starting a club then please share this post. 
+
+<a href="http://iamjimtaylor.com/posts/one-piece-of-good-content/">Read how this post has spread via social media resulting in over 50,000 users in less than a fortnight!</a>
