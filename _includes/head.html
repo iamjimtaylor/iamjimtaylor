@@ -24,7 +24,7 @@
 	{% if page.date %}<meta property="http://ogp.me/ns/article#published_time" content="{{ page.date}}" />
 	<meta property="http://ogp.me/ns/article#modified_time" content="{{ page.date}}" />{% endif %}
 
-
+	{% if page.path contains '_posts' %}<link rel="amphtml" href="{{ page.id | append:'/index.html' | prepend: site.baseurl | prepend: site.url }}">{% endif %}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 	<link href="https://fonts.googleapis.com/css?family=Domine:400,700" rel="stylesheet" type="text/css">
