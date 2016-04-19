@@ -134,19 +134,8 @@
 }
 
 .avatar {
-	border-radius: 50%;	
-	margin: 15px 0;
-}
-
-.logo {
-	display: inline-block;
-	width:50%;
-	max-width: 120px;
-	margin-bottom: 20px;
-	@media (min-width: $screen-sm) {
-		width:auto;			
-		max-width: none;
-	}	
+	border-radius: 5%;	
+	margin: 15px 15px 15px 0;
 }
 
 /* ==========================================================================

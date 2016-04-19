@@ -9,6 +9,8 @@ image_alt: The stereotypical team photo
 image_width: 750
 image_height: 560
 excerpt: "You want my advice? I'm tempted to say don't do it. I was a Sunday League Manager for over 8 years until I called it a day recently. This is my opinion based on my experiences."
+category: football
+tags: [football, management, leadership]
 ---
 
 <p class="lead">You want my advice? I'm tempted to say don't do it.</p>

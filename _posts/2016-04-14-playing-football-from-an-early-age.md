@@ -9,6 +9,8 @@ image_alt: Little Kicker
 image_width: 750
 image_height: 560
 excerpt: "When my son was born my first thought was when can he start playing football? As an ex Sunday league football manager I wanted him kicking a ball from day one."
+category: football
+tags: [football, learning]
 ---
 
 <p class="lead">When my son was born my first thought was when can he start playing football?</p>

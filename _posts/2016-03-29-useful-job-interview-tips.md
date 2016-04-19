@@ -5,6 +5,8 @@ date:   2016-03-29 20:00:00 +0000
 meta_description: "What have I learnt from the dozen or so more interviews given? More importantly from my own experience of being the candidate."
 permalink: posts/useful-job-interview-tips/
 excerpt: "I still remember my job interview to join the team at Ph.Creative like it was yesterday. What have I learnt from the dozen or so more interviews given? More importantly from my own experience of being the candidate."
+category: tips
+tags: [interview, recruitment]
 ---
 
 <p class="lead">I still remember my job interview to join the team at Ph.Creative like it was yesterday.</p>

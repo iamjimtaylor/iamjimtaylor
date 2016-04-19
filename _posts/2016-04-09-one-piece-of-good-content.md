@@ -9,6 +9,8 @@ image_alt: Website Traffic
 image_width: 1112
 image_height: 398
 excerpt: "I've not written anything for a week as I'm still getting over the response of one of my latest posts - Running a Sunday League Football Team."
+category: content
+tags: [content, social]
 ---
 
 I've not written anything for a week as I'm still getting over the response of one of my latest posts - <a href="http://iamjimtaylor.com/posts/running-a-sunday-league-football-team/" target="_blank">Running a Sunday League Football Team</a>.

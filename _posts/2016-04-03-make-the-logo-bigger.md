@@ -9,6 +9,8 @@ image_alt: Bigger Google Logo
 image_width: 1366
 image_height: 702
 excerpt: "9 times out of 10 a client will give me a solution without telling me what the problem they're trying to solve is when it comes to making changes to their website. "
+category: design
+tags: [design, uxui, testing]
 ---
 
 <p class="lead">9 times out of 10 a client will give me a solution without telling me what the problem they're trying to solve is when it comes to making changes to their website.</p>

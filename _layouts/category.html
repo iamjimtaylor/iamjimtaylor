@@ -1,0 +1,84 @@
+---
+layout: default
+meta_description: "I tweeted an article I'd read not long ago about how to start writing. As I wanted to do the same. I also wanted to start coding again."
+---
+
+<div class="row">
+	<section class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+		<h1>Blog Categories</h1>
+
+		<ul class="tag-box inline">
+		{% assign tags_list = site.categories %}  
+		  {% if tags_list.first[0] == null %}
+		    {% for tag in tags_list %} 
+		      <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
+		    {% endfor %}
+		  {% else %}
+		    {% for tag in tags_list %} 
+		      <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
+		    {% endfor %}
+		  {% endif %}
+		{% assign tags_list = nil %}
+		</ul>
+
+		{% for tag in site.categories %} 
+		  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+		  <ul class="posts-row list-unstyled" itemscope itemType="http://schema.org/Blog">
+		    {% assign pages_list = tag[1] %}  
+		    {% for post in pages_list %}
+		      {% if post.title != null %}
+		      {% if group == null or group == post.group %}
+		      
+
+
+		    
+
+
+		<li itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+
+				<meta itemprop="name headline" content="'{{ post.title }}'">
+		        <meta itemprop="dateModified" content="{{ post.date | date: "%-d/%b/%Y" }}">
+
+				<h3><a class="posts-link {{ include.size }}" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" itemprop="headline">{{ post.title }}</a></h3>
+				
+				<div class="post-meta"><small>
+					<time datetime="{{ post.date | date_to_xmlschema }}" class="posts-date">
+						{% assign d = post.date | date: "%-d"  %}
+						{% case d %}
+						{% when '1' or '21' or '31' %}{{ d }}st
+						{% when '2' or '22' %}{{ d }}nd
+						{% when '3' or '23' %}{{ d }}rd
+						{% else %}{{ d }}th
+						{% endcase %}
+						{{ post.date | date: "%B" }} 
+						{{ post.date | date: "%Y" }}
+					</time>
+				</small></div>
+
+				{% if post.image_url %}<a class="image" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">
+		            <span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+		            	<img alt="{{ post.image_alt }}" class="img-responsive" width="{{ post.image_width }}" height="{{ post.image_height }}" itemprop="contentUrl" src="{{ post.image_url | prepend: site.url }}">
+		            	<link href="{{ post.image_url | prepend: site.url }}" itemprop="url">
+		            	<meta content="{{ post.image_width }}" itemprop="width">
+		            	<meta content="{{ post.image_height }}" itemprop="height">
+		            </span>
+		        </a>{% endif %}
+
+		    	<p itemprop="description">{{ post.excerpt | truncate: 300 }} 
+		    	<a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" rel="" title="Read more">Read more...</a></p>
+		    </li>
+
+
+
+
+		      {% endif %}
+		      {% endif %}
+		    {% endfor %}
+		    {% assign pages_list = nil %}
+		    {% assign group = nil %}
+		  </ul>
+
+
+		{% endfor %}
+	</section>
+</div>

@@ -5,6 +5,8 @@ date:   2016-04-01 11:00:00 +0000
 meta_description: "PPC Adverts or Paid Social, every visitor to your website costs money even the free ones. And you want to see ROI."
 permalink: posts/cro-for-better-landing-page-conversion/
 excerpt: "I spoke about landing pages in a quick 70 second video not long ago but wish I could have gone into more detail. So here you go. PPC Adverts or Paid Social, every visitor to your website costs money even the free ones. And you want to see ROI."
+category: design
+tags: [design, cro, landing-page]
 ---
 
 I spoke about landing pages in a quick 70 second video not long ago but wish I could have gone into more detail. So here you go... see below.
