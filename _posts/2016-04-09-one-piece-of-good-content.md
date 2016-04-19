@@ -6,8 +6,8 @@ meta_description: "I've not written anything for a week as I'm still getting ove
 permalink: posts/one-piece-of-good-content/
 image_url: /images/google-analytics.png
 image_alt: Website Traffic
-image_width: 1112
-image_height: 398
+image_width: 750
+image_height: 268
 excerpt: "I've not written anything for a week as I'm still getting over the response of one of my latest posts - Running a Sunday League Football Team."
 category: content
 tags: [content, social]
