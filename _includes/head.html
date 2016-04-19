@@ -1,5 +1,13 @@
 <head>
-	<meta charset="utf-8">
+{% if site.enforce_ssl %}
+<script type="text/javascript">
+	var enforce = "{{ site.enforce_ssl }}";
+	if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+	window.location = window.location.toString().replace(/^http:/, "https:");
+</script>
+{% endif %}
+
+<meta charset="utf-8">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
 	<link rel="dns-prefetch" href="//apis.google.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,11 +46,5 @@
 
 		ga('create', 'UA-75495129-1', 'auto');
 		ga('send', 'pageview');
-	</script>
-
-	<script type="text/javascript">
-	    var host = "iamjimtaylor.com";
-	    if ((host == window.location.host) && (window.location.protocol != "https:"))
-	        window.location.protocol = "https";
 	</script>
 </head>
