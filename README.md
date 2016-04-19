@@ -1,2 +1,2 @@
 # iamjimtaylor
-personal website: http://iamjimtaylor.com 
+personal website: https://iamjimtaylor.com 

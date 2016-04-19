@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://iamjimtaylor.com/feed.xml
+Sitemap: https://iamjimtaylor.com/feed.xml
