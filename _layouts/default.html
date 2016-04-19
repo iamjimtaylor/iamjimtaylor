@@ -3,15 +3,19 @@
 
   {% include head.html %}
 
-  <body>
-  	<a class="sr-only" href="#content">Skip to content</a>
-    {% include header.html %}
+	<body>
+		<a class="sr-only" href="#content">Skip to content</a>
+	{% include header.html %}
 
-    <div class="container" id="content">
-        {{ content }}
-    </div>
+	<div class="container" id="content">
+	    {{ content }}
+	</div>
 
-    {% include footer.html %}
-
-  </body>
+	{% include footer.html %}
+    <script>
+        window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+        ga('create','UA-75495129-1','auto');ga('send','pageview')
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+	</body>
 </html>

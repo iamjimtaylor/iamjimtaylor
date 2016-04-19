@@ -1,0 +1,6 @@
+<nav id="main-nav">
+  <ul class="nav navbar-nav list-unstyled">
+    {% if page.url == '/about/' %}<li class="active">{% else %}<li>{% endif %}<a href="/about/">About</a></li>
+    {% if page.url == '/posts/' %}<li class="active">{% else %}<li>{% endif %}<a href="/posts/">Blog</a></li>
+  </ul>
+</nav>
