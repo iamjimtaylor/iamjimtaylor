@@ -30,6 +30,29 @@
 	padding-top: 15px;
 	margin-bottom: 20px;
 
+	.logo {
+		float: left;
+	}
+
+	.header-right {
+		text-align: right;
+		position: relative;
+		top: 25px;
+		float: right;
+
+		li {
+		a {
+			color: $text-color;			
+		}
+		//active styles
+		&.active, &:hover {
+			> a {
+				color: $brand-primary;
+			}
+		}
+	}
+	}
+
 	.navbar-toggle,
 	.search-toggle {
 		float:right;

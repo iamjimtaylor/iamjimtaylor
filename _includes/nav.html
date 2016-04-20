@@ -1,6 +1,17 @@
-<nav id="main-nav">
-  <ul class="nav navbar-nav list-unstyled">
-    {% if page.url == '/about/' %}<li class="active">{% else %}<li>{% endif %}<a href="/about/">About</a></li>
-    {% if page.url == '/posts/' %}<li class="active">{% else %}<li>{% endif %}<a href="/posts/">Blog</a></li>
-  </ul>
-</nav>
+<div class="header-right">
+    <nav class="navbar-menu" role="navigation">
+    	{% unless page.layout == 'front' %}
+  		<ul class="list-inline list-unstyled"> 
+		{% for link in site.navigation %}
+		{% assign active = nil %}
+		{% if page.url == link.url or page.layout == link.layout %}
+		{% assign active = ' class="active"' %}
+		{% endif %}
+		<li{{ active }}>
+		<a href="{{ link.url }}">{{ link.text }}</a>
+		</li>
+		{% endfor %}
+		 </ul>
+		{% endunless %}
+    </nav>
+</div>

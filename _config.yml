@@ -11,6 +11,12 @@ baseurl: ""
 url: https://iamjimtaylor.com
 enforce_ssl: iamjimtaylor.com
 
+navigation:
+- text: About
+  url: /about/
+- text: Blog
+  url: /posts/
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
