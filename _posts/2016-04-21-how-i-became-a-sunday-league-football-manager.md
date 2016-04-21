@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Making a Manager"
+title:  "How I became a Sunday League Football Manager"
 date:   2016-04-20 12:40:00 +0000
 meta_description: "I never set out to run a Sunday League team and never imagined it would take over as my many hobby for the next 8 years."
-permalink: posts/making-a-manager/
+permalink: posts/how-i-became-a-sunday-league-football-manager/
 image_url: /images/preseason-training.jpg
 image_alt: Watching from the side-lines
 image_width: 750
@@ -12,8 +12,6 @@ excerpt: "I never set out to run a Sunday League team and never imagined it woul
 category: football
 tags: [football, management, leadership]
 ---
-
-## How I became a Sunday League Football Manager
 
 <p class="lead">I never set out to run a Sunday League team and never imagined it would take over as my many hobby for the next 8 years. I blame the guy who put me on the bench for a manager-less team one Sunday morning. </p>
 
