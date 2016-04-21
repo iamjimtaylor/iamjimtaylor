@@ -8,7 +8,7 @@ image_url: /images/preseason-training.jpg
 image_alt: Watching from the side-lines
 image_width: 750
 image_height: 560
-excerpt: "I never set out to run a Sunday League team and never imagined it would take over as my many hobby for the next 8 years. I blame the guy who put me on the bench for a manager-less team one Sunday morning."
+excerpt: "I never set out to run a Sunday League team and never imagined it would take over as my main hobby for the next 8 years. I blame the guy who put me on the bench for a manager-less team one Sunday morning."
 category: football
 tags: [football, management, leadership]
 ---
@@ -17,22 +17,24 @@ tags: [football, management, leadership]
 
 ## Back into it
 
-I'd been out the game for years as I went down the route of playing in an indie band for nearly a decade. 
+I'd been out the game for years as I went down the route of playing in an indie band for almost a decade. 
 When I finally did being playing again I spent my final days in the bottom of the Liverpool District League. 
 A new club under a manager who ran the team to give his son a game.
 
-We were awful. And so was I. But after a change of manager and a good season or two under my belt I began to feel confident in my role as a centre half. Finishing a season with a little trophy for 'player of the season'. No lie!
-I was poor with the ball at my feet. My games were all about communication and throwing my body on the line. And as we spent 80 mins of every game defending for our lives I was involved in most of the play. I would be the last man trying to stop the ball crossing the line. So much so a tent peg went right into my knee as I slide to stop a shot going in. (That's what happens when you don't do the nets right!)
+We were awful. And so was I. After a change of manager and a good season or two under my belt I began to feel confident in my role as a centre-half. Finishing a season with a little trophy for 'player of the season'. No lie!
+I was poor with the ball at my feet. 
+
+My games were all about communication and throwing my body on the line. And as we spent 80 minutes of every game defending for our lives I was involved in most of the play. I would be the last man trying to stop the ball crossing the line. So much so a tent peg went right into my knee as I slide to stop a shot going in. (That's what happens when you don't do the nets right!)
 
 ## It only takes one to spoil it
 
 Just when we began showing signs of developing into a team that could climb the table the worst thing I've ever seen on a football pitch happened. 
 
-One of our best players had brought his cousin to the club who was also decent. During a game his cousin was done in a bad tackle. Neither player got back up right away. Within a split second our team mate stamped on the head of the player who'd snapped his cousin. All hell broke loose. All I remember after that was trying to stop their keeper from killing someone. He was a massive fat head and surprised he didn't end my life on the spot.
+One of our best players had brought his cousin to the club who was also decent. During a game, his cousin was done in a bad tackle. Neither player got back up right away. Within a split second our team-mate stamped on the head of the player who'd snapped his cousin. All hell broke loose. All I remember after that was trying to stop their keeper from killing someone. He was a massive fat head and surprised he didn't end my life on the spot.
 
 ### Big fines 
 
-That was our last game. Our player was fined and banned for a year. The club was fined heavily and couldn't afford to pay it which forced the manager to fold our team. We were all gutted. What made it worse was the County FA recovered the fine by splitting it up among every player who was signed on for the club. Even if you'd not played a game but was on the books you were handed a £40 fine.
+That was our last game. Our player was fined and banned for a year. The club was fined heavily and couldn't afford to pay it which forced the manager to fold our team. We were all gutted. What made it worse was the County FA recovered the debt by splitting it up among every player who was signed on for the club. Even if you'd not played a game but was on the books you were handed a forty pound fine.
 
 ## Fresh start
 
@@ -46,26 +48,26 @@ The next away game they lost the kit as no one took responsibility for the kit b
 
 ## Where it all began 
 
-I can't remember who we played but the game I was benched I couldn't keep my mouth shut. I began barking orders to the lads as our shape was a joke especially at the back. Towards the end of the game one of the lads, who later became my longest serving player, asked would I manager the team as 'I sounded like I knew what I was talking about'. 
+I can't remember who we played but the game I was benched I couldn't keep my mouth shut. I began barking orders to the lads as our shape was a joke, especially at the back. Towards the end of the game one of the lads, who later became my longest serving player, asked would I manage the team as 'I sounded like I knew what I was talking about'. 
 
 It didn't take me long to say yes. It was better than being benched. I could now pick myself! 
 I had no idea what I was letting myself in for. 
 
 I spent the week trying to get organised. Contacting the League and the County FA to inform them I was the new Secretary. 
 That was easy... I asked the lads to get me all the paperwork. Team sheets, referee sheets, player photo ID cards, rulebooks etc. 
-I got a bit of shock when they posted £200's worth of unpaid fines through my letterbox. 
+I got a bit of shock when they posted at least two hundred pounds worth of unpaid fines through my letterbox. 
 It was a mess. I had to gather all players names and numbers and get to know who played where, as I was still getting to know everyone.
 
 I don't remember my first game in charge. But I think it was a loss. We didn't win many games that season. 
 
-### Player manager
+### Player-manager
 
 I didn't hang my boots up to start. I gave player-manager ago. It's much tougher. You see the game from a totally different angle from the sideline. 
 The amount of times I heard "I didn't realise we were so bad now I can see it from here" from a player who's just watched the remaining 20 mins after being brought off. 
 
 One of my final games, which stands out for being one of my better performances, I remember being shouted at from the sideline by my player "Jimmy, am I getting on or what? Followed by a load of abuse" - we'd only played 35 minutes. This was one of the reasons I couldn't continue playing and managing. I couldn't focus on my game as well as everyone else's. 
 
-For seasons after that I'd hear "get a kit on Jim... Jim you're gonna have to play." For a start, I'm wearing my glasses and two I haven't got any boots or shineys. And I'm not signed on to play. "So... Just borrow a pair and stick some newspaper down your socks. (Yes I've seen this happen) You don't even need to see what you're doing either." Most games I wish I was blind!
+For seasons after that, I'd hear "get a kit on Jim... Jim, you're gonna have to play." For a start, I'm wearing my glasses and two I haven't got any boots or shineys. And I'm not signed on to play. "So... Just borrow a pair and stick some newspaper down your socks. (Yes I've seen this happen) You don't even need to see what you're doing either." Most games I wish I was blind!
 
 ## Play by the rules 
 
@@ -99,14 +101,14 @@ The more games we played the more I knew what each player could and couldn't do.
 
 ## Broken bones
 
-My centre half breaking his arm was the first bad injury I'd seen while managing. But that's not the half of it. That morning, him, my centre mid and our cat between the sticks had turned up to the game still a bit messed from the night before. I heard them laughing about a party they'd been to where they'd raided the girls bedroom knicker draw to which they then began showing all the lads and myself the knickers under their footy shorts. "You're leaving them on to play the match?" Silly question.
+My centre-half breaking his arm was the first bad injury I'd seen while managing. But that's not the half of it. That morning, him, my centre mid and our cat between the sticks had turned up to the game still a bit messed from the night before. I heard them laughing about a party they'd been to where they'd raided the girls bedroom knicker draw to which they then began showing all the lads and myself the knickers under their footy shorts. "You're leaving them on to play the match?" Silly question.
 
-When our centre half snapped his arm and was carted off to the hospital I jokingly said "they best not cut that footy top off you!" To which he replied "**** I'm wearing knickers!!" I can't imagine what the nurses thought when he was seen to in A&E. I felt really bad for him. Not only was he unable to play for a few months he couldn't work either. And the insurance we had didn't cover a broken nail never mind a bone. 
+When our centre-half snapped his arm and was carted off to the hospital I jokingly said "they best not cut that footy top off you!" To which he replied "**** I'm wearing knickers!!" I can't imagine what the nurses thought when he was seen to in A&E. I felt really bad for him. Not only was he unable to play for a few months he couldn't work either. And the insurance we had didn't cover a broken nail never mind a bone. 
 
 The season after he broke his arm again in the exact same place. He came running over in the middle of the game "Jimmy I've done it again". His arm looked like a banana. "Can you run it off?" He ended up needing it pinned. Bad times. 
 
 ## You've got no fans 
-Plenty of times I'd stood on the side-line on my own. No subs, no mates, no fans...
+Plenty of times I'd stood on the sideline on my own. No subs, no mates, no fans...
 While the opposition looked like they could field another eleven. 
 
 What I did for the club others had 2 or 3 people. I was the chairman, secretary, treasurer, kit-man, physio, coach, manager.
