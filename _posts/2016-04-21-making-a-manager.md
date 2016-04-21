@@ -120,6 +120,6 @@ I once watched my lads battle against a horizontal hailstorm. I had 2 or 3 coats
 
 When the first season finished there was barely any money in the kitty. But what we did have we put towards a tiny trophy for 'Players Player'. I took a vote from each player. Some didn't grasp the concept and tried to vote for themselves. I found my subs book with the results in the back had been tampered with in the last game with one of the lads putting a dozen ticks next to their name. 
 
-Our Keeper took the reward and rightly so. He kept us in so many games which stopped his teammates in front of him from giving up. Which resulted in us grinding out results. From there the trophies grew and expanded and became the presentation night became the highlight of the season. 
+Our Keeper took the reward and rightly so. He kept us in so many games which stopped his teammates in front of him from giving up. Which resulted in us grinding out results. From there the trophies grew and expanded with the presentation night becoming the highlight of the season. 
 
 From here I was hooked. I'd put in a lot of hard work to make the club stable. All the funny stories that came out of that season have stuck with me as have the stories from the seasons after that. Banter with the lads. 
