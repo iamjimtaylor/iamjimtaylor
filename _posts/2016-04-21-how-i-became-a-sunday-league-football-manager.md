@@ -49,7 +49,7 @@ The next away game they lost the kit as no one took responsibility for the kit b
 
 I can't remember who we played but the game I was benched I couldn't keep my mouth shut. I began barking orders to the lads as our shape was a joke, especially at the back. Towards the end of the game one of the lads, who later became my longest serving player, asked would I manage the team as I 'sounded like I knew what I was talking about'. 
 
-It didn't take me long to say yes. It was better than being benched. I could now pick myself! 
+It didn't take me long to say yes. All those hours spent playing Champ Manager could now pay off. It was better than being benched. I could now pick myself! 
 I had no idea what I was letting myself in for. 
 
 I spent the week trying to get organised. Contacting the League and the County FA to inform them I was the new Secretary. 
