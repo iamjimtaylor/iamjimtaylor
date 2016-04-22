@@ -41,7 +41,7 @@ I made the decision to look for a team. The new season had just started so I con
 
 My first game was in the County Cup were we faced none other than Canada FC. We lost the game 10-0. I came off the bench with about 10 minutes left. After that, the manager resigned. 
 
-The players carried it on but it was disorganised. I made my starting debut for them against Oaks Athletic FC and was brought off at half time at 2-0 down to change to a 3-4-3 formation. We lost the game 12-1. It was embarrassing. The lads who were dictating didn't have a clue. And I was fuming for being dragged off at half time when we weren't doing to bad. 
+The players carried it on but it was disorganised. I made my starting debut for them against The Mills FC and was brought off at half time at 2-0 down to change to a 3-4-3 formation. We lost the game 12-1. It was embarrassing. The lads who were dictating didn't have a clue. And I was fuming for being dragged off at half time when we weren't doing to bad. 
 
 The next away game they lost the kit as no one took responsibility for the kit bag. Luckily we got it back. But there was no sign of leadership or ownership I couldn't see it lasting much longer. 
 
