@@ -18,7 +18,7 @@ tags: [football, management, leadership]
 ## Back into it
 
 I'd been out the game for years as I went down the route of playing in an indie band for almost a decade. 
-When I finally did being playing again I spent my final days in the bottom of the Liverpool District League. 
+When I finally did begin playing again I spent my final days in the bottom of the Liverpool District League. 
 A new club under a manager who ran the team to give his son a game.
 
 We were awful. And so was I. After a change of manager and a good season or two under my belt I began to feel confident in my role as a centre-half. Finishing a season with a little trophy for 'player of the season'. No lie!
