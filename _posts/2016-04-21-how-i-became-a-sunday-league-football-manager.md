@@ -146,3 +146,6 @@ From here I was hooked. I'd put in a lot of hard work to make the club stable. A
 	<img alt="Football Trophies" class="img-responsive" width="750" height="741" src="/images/football-trophies.jpg" />
 	<figcaption>Had a good season have we?</figcaption>	
 </figure>
+
+### Want to know more?
+Read about <a href="https://iamjimtaylor.com/posts/running-a-sunday-league-football-team/">Running a Sunday League Football Team</a>.

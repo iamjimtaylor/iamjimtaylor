@@ -249,4 +249,5 @@ The lads, the banter, the football. I got to let off steam screaming at the lads
 
 If you're a Sunday League Manager, associated with a team or you're thinking about starting a club then please share this post. 
 
-<a href="http://iamjimtaylor.com/posts/one-piece-of-good-content/">Read how this post has spread via social media</a>
+### Want to know more?
+Read about <a href="https://iamjimtaylor.com/posts/how-i-became-a-sunday-league-football-manager/">how I became a Sunday League Football Manager</a>.
