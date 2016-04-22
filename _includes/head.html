@@ -1,12 +1,5 @@
 <head>
-{% if site.enforce_ssl %}
-<script type="text/javascript">
-	var enforce = "{{ site.enforce_ssl }}";
-	if ((enforce == window.location.host) && (window.location.protocol != "https:"))
-	window.location = window.location.toString().replace(/^http:/, "https:");
-</script>
-{% endif %}
-
+{% if site.enforce_ssl %}<script type="text/javascript">var enforce = "{{ site.enforce_ssl }}";if ((enforce == window.location.host) && (window.location.protocol != "https:"))window.location = window.location.toString().replace(/^http:/, "https:");</script>{% endif %}
 <meta charset="utf-8">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
 	<link rel="dns-prefetch" href="//apis.google.com">
