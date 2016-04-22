@@ -4,10 +4,10 @@ title:  "How I became a Sunday League Football Manager"
 date:   2016-04-20 12:40:00 +0000
 meta_description: "I never set out to run a Sunday League team and never imagined it would take over as my many hobby for the next 8 years."
 permalink: posts/how-i-became-a-sunday-league-football-manager/
-image_url: /images/preseason-training.jpg
+image_url: /images/football-manager.jpg
 image_alt: Watching from the side-lines
 image_width: 750
-image_height: 560
+image_height: 563
 excerpt: "I never set out to run a Sunday League team and never imagined it would take over as my main hobby for the next 8 years. I blame the guy who put me on the bench for a manager-less team one Sunday morning."
 category: football
 tags: [football, management, leadership]
@@ -59,9 +59,15 @@ I had no idea what I was letting myself in for.
 ### Paperwork
 
 I spent the week trying to get organised. Contacting the League and the County FA to inform them I was the new Secretary. 
-That was easy... I asked the lads to get me all the paperwork. Team sheets, referee sheets, player photo ID cards, rulebooks etc. 
+That was easy... I asked the lads to get me all the paperwork. Team sheets, referee sheets, player photo ID cards, rulebooks etc. As well as sign-on those who hadn't.
+
+<figure>		
+	<img alt="Sign-On" class="img-responsive" width="750" height="538" src="/images/football-paperwork.jpg" />
+	<figcaption>Putting pen to paper</figcaption>	
+</figure>
+
 I got a bit of shock when they posted at least two hundred pounds worth of unpaid fines through my letterbox. 
-It was a mess. I had to gather all players names and numbers and get to know who played where, as I was still getting to know everyone.
+It was a mess. I had to gather all players names and numbers and get to know who played where, as I was still getting to know everyone. 
 
 I don't remember my first game in charge. But I think it was a loss. We didn't win many games that season. 
 
@@ -123,8 +129,20 @@ I once watched my lads battle against a horizontal hailstorm. I had 2 or 3 coats
 
 ## Recognition
 
-When the first season finished there was barely any money in the kitty. But what we did have we put towards a tiny trophy for 'Players Player'. I took a vote from each player. Some didn't grasp the concept and tried to vote for themselves. I found my subs book with the results in the back had been tampered with in the last game with one of the lads putting a dozen ticks next to their name. 
+When the first season finished there was barely any money in the kitty. But what we did have we put towards a tiny trophy for 'Players Player'. 
+
+<figure>		
+	<img alt="Football Trophy" class="img-responsive" width="720" height="540" src="/images/tiny-trophy.jpg" />
+	<figcaption>Tiny budget, tiny trophy</figcaption>	
+</figure>
+
+I took a vote from each player. Some didn't grasp the concept and tried to vote for themselves. I found my subs book with the results in the back had been tampered with in the last game with one of the lads putting a dozen ticks next to their name. 
 
 Our Keeper took the reward and rightly so. He kept us in so many games which stopped his teammates in front of him from giving up. Which resulted in us grinding out results. From there the trophies grew and expanded with the presentation night becoming the highlight of the season. 
 
-From here I was hooked. I'd put in a lot of hard work to make the club stable. All the funny stories that came out of that season have stuck with me as have the stories from the seasons after that. Banter with the lads. 
+From here I was hooked. I'd put in a lot of hard work to make the club stable. All the funny stories that came out of that season have stuck with me as have the stories from the seasons after that. Banter with the lads and bigger trophies. 
+
+<figure>		
+	<img alt="Football Trophies" class="img-responsive" width="750" height="741" src="/images/football-trophies.jpg" />
+	<figcaption>Had a good season have we?</figcaption>	
+</figure>
