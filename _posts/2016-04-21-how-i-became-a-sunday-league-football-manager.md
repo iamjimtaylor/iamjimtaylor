@@ -37,7 +37,7 @@ That was our last game. Our player was fined and banned for a year. The club was
 
 ## Fresh start
 
-I made the decision to look for a team myself. The new season had just started so I contacted all the teams in the bottom division to see if they needed players. I wasn't getting any younger and only had a few seasons left in the tank if that. Blackthorne FC invited me to training and signed me up. 
+I made the decision to look for a team. The new season had just started so I contacted all the teams in the bottom division to see if they needed players. I wasn't getting any younger and only had a few seasons left in the tank if that. Blackthorne FC invited me to training and signed me up. 
 
 My first game was in the County Cup were we faced none other than Canada FC. We lost the game 10-0. I came off the bench with about 10 minutes left. After that, the manager resigned. 
 
