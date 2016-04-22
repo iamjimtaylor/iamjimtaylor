@@ -52,6 +52,8 @@ I can't remember who we played but the game I was benched I couldn't keep my mou
 It didn't take me long to say yes. All those hours spent playing 'Championship Manager' could now pay off. It was better than being benched. I could now pick myself! 
 I had no idea what I was letting myself in for. 
 
+### Paperwork
+
 I spent the week trying to get organised. Contacting the League and the County FA to inform them I was the new Secretary. 
 That was easy... I asked the lads to get me all the paperwork. Team sheets, referee sheets, player photo ID cards, rulebooks etc. 
 I got a bit of shock when they posted at least two hundred pounds worth of unpaid fines through my letterbox. 
