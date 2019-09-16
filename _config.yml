@@ -28,5 +28,5 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 
-paginate: 12          # gem install jekyll-paginate
+paginate: 9          # gem install jekyll-paginate
 paginate_path: "/posts/page:num/"
