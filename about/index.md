@@ -16,7 +16,7 @@ excerpt: "Jim Taylor. I have over 8 years digital agency experience in producing
       </div>
       <div class="col-md-6">        
         <h3>Home life</h3>
-        <p>When I'm not living the fast pace of agency life I spend all my time with  two Sons. Rachel and I have been together for 20 years, married in 2011 and we have another baby on the way!</p>
+        <p>When I'm not living the fast pace of agency life I spend all my time with my wife and two sons. Rachel and I have been together for 20 years, married in 2011 and we have another baby on the way!</p>
         <h3>Everyone needs a hobby</h3>
         <p>I'm a Liverpool FC supporter and until recently I managed a Sunday League Football Club for 6 years.</p>
         <p>I played Lead Guitar in rock/indie band called '<a href="https://soundcloud.com/user-466017660/sets/the-boot-estate" target="_blank">Iconoclast</a>' for about 8 years.</p>
