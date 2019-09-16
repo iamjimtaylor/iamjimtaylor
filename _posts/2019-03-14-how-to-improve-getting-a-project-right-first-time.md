@@ -25,7 +25,7 @@ The brief should provide absolute clarity at the beginning of a project. What is
 
 There can be different types of briefs depending on whether it’s strategic, creative or technical. I recommend you should have one briefing document that works for all. Create a ready-made briefing template to cover all bases, to save time.
 
-##Understanding the brief
+## Understanding the brief
 
 Sometimes a brief can fall down if it’s only communicated verbally because you’re relying on those listening to remember everything that’s been said. Those listening then pass on the brief verbally too, and so you end up with Chinese whispers and an entirely different outcome to the one that you wanted.
 
