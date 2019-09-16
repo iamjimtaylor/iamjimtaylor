@@ -76,7 +76,7 @@ To summarise, here are some tips on how to improve getting a project right the f
 - <strong>Mandatories:</strong> What must be included?: Outline anything that has to be included, such as a strapline, URL, phrase or name.
 - <strong>Food for thought:</strong> Give an idea of what the solution could look like, if possible. It will help with direction and save time. Has the client suggested other work that they like or want to use as a reference point?
 - <strong>Deadline:</strong> When’s your deadline? When do you need this to be live or with customers?
-- <strong>>Budget:</strong> What is the amount of budget available and how it may split between tasks, e.g. creative vs media etc.
+- <strong>Budget:</strong> What is the amount of budget available and how it may split between tasks, e.g. creative vs media etc.
 - <strong>Anything else?</strong> Include any relevant/supporting information. For example, brand guidelines, other stakeholders to be aware of. Do you need to provide any copyright information or any other dependencies?
 
 <strong>Tip #2: Playback the brief to the client.</strong> You’re making sure you and your team are all on the same page with what the client wants. It is the opportunity to align and agree on the deliverables. So, misinterpreting the brief can be avoided.
