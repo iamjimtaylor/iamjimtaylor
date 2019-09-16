@@ -68,18 +68,16 @@ To summarise, here are some tips on how to improve getting a project right the f
 
 ### This example covers creative and copy:
 
-<ul>
-  <li><strong>Background:</strong> Briefly introduce the client, what they do and the details of the project that the work will be part of. Explain the context of this project, from a business or marketing POV - why are we doing it? What problem or opportunity are we trying to solve? Is there any other campaign activity we need to know about?</li>
-  <li><strong>Objectives:</strong> What does the work need to achieve by when to whom? Explain any key challenges/opportunities surrounding the project. What must be communicated? How will success be measured? Clicks? Downloads? Enquiries? Applications?</li>
-  <li><strong>Deliverables:</strong> What needs to be delivered? Give as much detail as possible, clearly and concisely. Use bullet points to add clarity.  Name the assets and channels. Social? Web? Print? Video? Is there a specific tone of voice/style to be used?</li>
-  <li><strong>The audience:</strong> Who is the copy talking to, who are the specific audiences? What do we know about them? Attach personas or research. How will they interact with this work and in what context? Who are internal audiences/stakeholders?</li>
-  <li><strong>Key message:</strong> What is the one thing we want our audience to think, feel and do? What is the thrust of the copy and the overall point that the copy needs to make?</li>
-  <li><strong>Mandatories:</strong> What must be included?: Outline anything that has to be included, such as a strapline, URL, phrase or name.</li>
-  <li><strong>Food for thought:</strong> Give an idea of what the solution could look like, if possible. It will help with direction and save time. Has the client suggested other work that they like or want to use as a reference point?</li>
-  <li><strong>Deadline:</strong> When’s your deadline? When do you need this to be live or with customers?</li>
-  <li<strong>>Budget:</strong> What is the amount of budget available and how it may split between tasks, e.g. creative vs media etc.</li>
-  <li><strong>Anything else?</strong> Include any relevant/supporting information. For example, brand guidelines, other stakeholders to be aware of. Do you need to provide any copyright information or any other dependencies?</li>
-</ul>
+- <strong>Background:</strong> Briefly introduce the client, what they do and the details of the project that the work will be part of. Explain the context of this project, from a business or marketing POV - why are we doing it? What problem or opportunity are we trying to solve? Is there any other campaign activity we need to know about?
+- <strong>Objectives:</strong> What does the work need to achieve by when to whom? Explain any key challenges/opportunities surrounding the project. What must be communicated? How will success be measured? Clicks? Downloads? Enquiries? Applications?
+- <strong>Deliverables:</strong> What needs to be delivered? Give as much detail as possible, clearly and concisely. Use bullet points to add clarity.  Name the assets and channels. Social? Web? Print? Video? Is there a specific tone of voice/style to be used?
+- <strong>The audience:</strong> Who is the copy talking to, who are the specific audiences? What do we know about them? Attach personas or research. How will they interact with this work and in what context? Who are internal audiences/stakeholders?
+- <strong>Key message:</strong> What is the one thing we want our audience to think, feel and do? What is the thrust of the copy and the overall point that the copy needs to make?
+- <strong>Mandatories:</strong> What must be included?: Outline anything that has to be included, such as a strapline, URL, phrase or name.
+- <strong>Food for thought:</strong> Give an idea of what the solution could look like, if possible. It will help with direction and save time. Has the client suggested other work that they like or want to use as a reference point?
+- <strong>Deadline:</strong> When’s your deadline? When do you need this to be live or with customers?
+- <strong>>Budget:</strong> What is the amount of budget available and how it may split between tasks, e.g. creative vs media etc.
+- <strong>Anything else?</strong> Include any relevant/supporting information. For example, brand guidelines, other stakeholders to be aware of. Do you need to provide any copyright information or any other dependencies?
 
 <strong>Tip #2: Playback the brief to the client.</strong> You’re making sure you and your team are all on the same page with what the client wants. It is the opportunity to align and agree on the deliverables. So, misinterpreting the brief can be avoided.
 
