@@ -11,7 +11,7 @@ excerpt: "Jim Taylor. I have over 8 years digital agency experience in producing
       <div class="col-md-6">        
         <h3>Developer at heart</h3>       
         <p>I have over 16 years digital experience in producing high quality, engaging websites and marketing campaigns.</p>
-        <p>I joined <a href="http://www.ph-creative.com" target="_blank">Ph.Creative</a> in April 2008 as a Front-end Developer. I then became Senior Front-end Developer 4 years later. In 2014 I down tools and became a manager, responsible for the delivery within the studio and then joined the board of directors in 2017 as Operations Director. In 2019 I became Managing Director of Ph.Digital within Ph.Creative, responsible for the Web Development and Digital Marketing Departments.</p>
+        <p>I joined <a href="http://www.ph-creative.com" target="_blank">Ph.Creative</a> in April 2008 as a Front-end Developer. I then became Senior Front-end Developer 4 years later. In 2014 I downed tools and became a manager, responsible for the delivery within the studio and then joined the board of directors in 2017 as Operations Director. In 2019 I became Managing Director of Ph.Digital within Ph.Creative, responsible for the Web Development and Digital Marketing Departments.</p>
         <p>My experience spans many disciplines working alongside Developers, Designer, Strategists, Project Managers, Account Managers and more. My main passion is in Leadership and my focus is in growing the business.</p>
       </div>
       <div class="col-md-6">        
@@ -22,5 +22,4 @@ excerpt: "Jim Taylor. I have over 8 years digital agency experience in producing
         <p>I played Lead Guitar in rock/indie band called '<a href="https://soundcloud.com/user-466017660/sets/the-boot-estate" target="_blank">Iconoclast</a>' for about 8 years.</p>
         <p>I love <a href="https://letterboxd.com/jamesicon/films/" target="_blank">watching films</a> or binge watching on Netflix, having a few beers at the weekend and worshipping the sunshine.</p>
       </div>      
-  </section>
 </div>
