@@ -10,10 +10,10 @@ layout: default
 		<hr>
 		<h2 class="blog-list-header">Latest Blog Posts</h2>
 		<ul class="posts-row list-unstyled" itemscope itemType="http://schema.org/Blog">
-		{% for post in site.posts limit: 4 %}
+		{% for post in site.posts limit: 3 %}
 			{% include post/post-row.html size='posts-larger' %}
 		{% endfor %}
 		</ul>
-		<p class="text-center"><a href="/posts/page2/">More blog posts</a></p>	
+		<p class="text-center"><a href="/posts/">More blog posts</a></p>	
 	</section>
 </div>
